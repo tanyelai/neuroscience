@@ -21,7 +21,7 @@ In this repository, you will find the resources I have found up-to-date, what I 
 
 ## Resources
 ### Books
-1) Cognitive Neuroscience: The Biology of the Mind {2019} (Edit: -> After some research I jumped on this book because it is much more up-to-date.)</br>
+1) Cognitive Neuroscience: The Biology of the Mind {2019} (Edit: -> After some research I jumped on this book because it is much more up-to-date, and easy to read.)</br>
 2) Principles of Cognitive Neuroscience {2012} (Note: It's easy to read, it simplifies very complex events. Good book. I didn't read it all, I skipped over it.)</br>
 3) Neuroscience 6th Edition (Note: Pretty hard to read, best to go with the main course. Best medicine for its patient.)
 ### Courses
