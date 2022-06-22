@@ -87,10 +87,10 @@ I completed half of the course "Philosophy and the Sciences: Introduction to the
 
 
 ### Day 2
-I completed rest of the course Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences.
+I completed rest of the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Science"s.
 
 ### Day 3 
-I started course "Medical Neuroscience". He is pretty nice, in first week he starts with the long introduction of the course. He recommends Neuroscience 6th book for further information. (It seems really hard to read for me, but anyway, we are in the path.)
+I started course "Medical Neuroscience". Dr. White is pretty nice teacher, in first week he starts with the long introduction of the course. He recommends Neuroscience 6th book for further information. (It seems really hard to read for me, but anyway, we are in the path.)
 
 I continued my research to find convenient resources for myself to start cognitive neuroscience. I will be updating [Resources](#resources) with my progress.
 
@@ -112,3 +112,5 @@ I skipped over "Principles of Cognitive Neuroscience" and started to "Cognitive 
 
 > I will create another section for the review of the books and topics in it.
 
+### Day 7
+Off-day for cognitive neuroscience.
