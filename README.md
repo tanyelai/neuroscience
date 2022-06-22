@@ -82,14 +82,10 @@ Courses to comprehend what is happening.</br>
 
 ## Diary
 
-### Day 1
-I completed half of the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences". It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. 
+### Day 1-2
+I completed the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences". It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. 
 
-
-### Day 2
-I completed rest of the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Science"s.
-
-### Day 3 
+### Day 3-6
 I started course "Medical Neuroscience". Dr. White is pretty nice teacher, in first week he starts with the long introduction of the course. He recommends Neuroscience 6th book for further information. (It seems really hard to read for me, but anyway, we are in the path.)
 
 I continued my research to find convenient resources for myself to start cognitive neuroscience. I will be updating [Resources](#resources) with my progress.
@@ -99,16 +95,14 @@ I will not be able to share some links due to copyrights, but I will be writing 
 
 -----------
 
-### Day 4 
 In the second part of week one, he starts "Neuroanatomy". Frankly, I feel pretty awkward watching this course. We haven't been studying anything biological since we started university, and the language barrier with medical terms puts an extra burden on it. Still, I can say that I understand 60-70% of what is being said, Dr. White explains the topics really well. I completed the week one with lots of questions.
 
-I must say that the course "Medical Neuroscience" is started as one of the most difficult course I have ever taken. However, this difficulty does not reduce my interest, on the contrary, I am even more curious. I research the parts that I think I need to research and leave the rest because some topics are too deep and need to be looked at again later.</br></br>
+I must say that the course "Medical Neuroscience" is started as one of the most difficult course I have ever taken. However, this difficulty does not reduce my interest, on the contrary, I am even more curious. I research the parts that I think I need to research and leave the rest because some topics are too deep and need to be looked at again later.</br>
 
-### Day 5
-I read "Principles of Cognitive Neuroscience" until page 40s. Then read "Neuroscience 6th" only 5 pages (it took me 2.5 hours to read 5 pages???). I realized that I need to work Neuroscience calmly and without ruining the order. The discipline of neuroscience gives me a much more settled feeling than programming.</br></br>
+I read "Principles of Cognitive Neuroscience" until page 40s. Then read "Neuroscience 6th" only 5 pages (it took me 2.5 hours to read 5 pages???). I realized that I need to work Neuroscience calmly and without ruining the order. The discipline of neuroscience gives me a much more settled feeling than programming.</br>
 
-### Day 6
 I skipped over "Principles of Cognitive Neuroscience" and started to "Cognitive Neuroscience: The Biology of the Mind". Well, I won't continue to skip. I did this because the second book is much more up-to-date and recommended. I read the holy book "Neuroscience" 10 pages with lots of dictionary checking, searching for unknown biological and medical terms. I understand "patience" is the key...</br></br>
+
 
 ### Day 7
 Off-day for cognitive neuroscience.
