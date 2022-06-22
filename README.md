@@ -12,7 +12,7 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 <br/>
 
 ## About my passion
-As can be easily seen, I have no past work with neuroscience. However, it has been my dream for a long time to explore the brain, understand cognitive processes and contribute something to this field. To prepare for this, I tried to isolate and improve myself at points that crossed my field at university. For example, computer vision and natural language processing. As a long term goal, using what I learned from this process, I will develop artificial intelligence-based projects with having clear understanding of the neuroscience domain's problems and needs. While I think that deep learning and new technologies can play an important role in the discovery of the brain, I rolled up my sleeves to learn traditional methods as well.
+As can be easily seen, I have no past work with neuroscience. However, it has been my dream for a long time to explore the brain, understand cognitive processes and contribute something to this field. To prepare for this, I tried to improve myself at subjects that crossed my field at university. For example, computer vision and natural language processing. As a long term goal, using what I learned from this process, I will develop artificial intelligence-based projects with having clear understanding of the neuroscience domain's problems and needs. While I think that deep learning and new technologies can play an important role in the discovery of the brain, I rolled up my sleeves to learn traditional methods as well.
 <br/><br/><br/>
 
 ## About this repository
