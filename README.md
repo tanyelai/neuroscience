@@ -60,5 +60,21 @@ I completed half of the course Philosophy and the Sciences: Introduction to the 
 - The scientific study of consciousness is concerned with several different phenomena, including attention, wakefulness, and phenomenal experience itself, which are not always connected.
 
 
-
-
+### Day 2
+I completed rest of the course Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences. Some links that I find useful for philosophy of the topic at below, **Stanford Encyclopedia of Philosophy** is quite good resource.
+#### Computational theory of mind and connectionism
+- [Computational Theory of Mind](http://plato.stanford.edu/entries/computational-mind/)
+- [Connectionism](http://plato.stanford.edu/entries/connectionism/)
+-----------
+- [The McGurk effect (short video)](https://www.youtube.com/watch?v=G-lN8vWm3m0)
+- [The Ames Illusion (short video)](https://www.youtube.com/watch?v=gJhyu6nlGt8)
+- [The Rotating Mask Illusion (short video)](https://www.youtube.com/watch?v=sKa0eaKsdA0)
+- [Turing's Model of The Mind](https://marksprevak.com/publications/turing-s-model-of-the-mind-2017/)
+----------
+- [Embodied Cognition](http://plato.stanford.edu/entries/embodied-cognition/)
+- [McGeer and Passive Dynamic Bipedal Walking (short video)](https://www.youtube.com/watch?v=WOPED7I5Lac)
+- [Cornell robots: all are autonomous, use little or no power and can't stand with parallel legs](http://ruina.tam.cornell.edu/research/topics/robots/)
+#### Summary of key points
+- Cognition doesn't have to be just "in the head" - cognitive processing can be supported or complemented by bodily and environmental resources.
+- Simple behaviors (like moving around an environment) are often driven by perception and don't necessarily require something like a clear plan or goal.
+- When we take into account the role played by our cultural and linguistic environment, 'bodily' explanations of computing can scale up to higher (human) cognition.
