@@ -37,7 +37,7 @@ Courses to comprehend what is happening.</br>
 *Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources, I will be adding later.
 
 ### Day 1
-I completed half of the course Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences. It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. Some links that I find useful for philosophy of the topic:
+I completed half of the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences". It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. Some links that I find useful for philosophy of the topic:
 - [Evolutionary Psychology](https://iep.utm.edu/evol-psy/)
 - [Evolution of Language](http://www.lel.ed.ac.uk/cle/)
 - [Niche Construction](https://nicheconstruction.com)
@@ -77,4 +77,23 @@ I completed rest of the course Philosophy and the Sciences: Introduction to the 
 #### Summary of key points
 - Cognition doesn't have to be just "in the head" - cognitive processing can be supported or complemented by bodily and environmental resources.
 - Simple behaviors (like moving around an environment) are often driven by perception and don't necessarily require something like a clear plan or goal.
-- When we take into account the role played by our cultural and linguistic environment, 'bodily' explanations of computing can scale up to higher (human) cognition.
+- When we take into account the role played by our cultural and linguistic environment, 'bodily' explanations of computing can scale up to higher (human) cognition.</br></br>
+
+### Day 3 
+I started course "Medical Neuroscience". Frankly, I feel pretty awkward watching this course. We haven't been studying anything biological since we started university, and the language barrier with medical terms puts an extra burden on it. Still, I can say that I understand 60-70% of what is being said, Dr. White explains the topics really well. He is pretty nice, in first week he starts with the long introduction of the course.
+
+I continued my research to find convenient resources for myself to start cognitive neuroscience. I will be updating [Resources](#resources) with my progress.</br></br>
+
+### Day 4 
+In the second part of week one, he starts "Neuroanatomy". I completed the week one with lots of questions. He recommends Neuroscience 6th book for further information. (It seems really hard to read for me, but anyway, we are in the path.)
+
+I must say that the course "Medical Neuroscience" is one of the most difficult course I have ever taken. However, this difficulty does not reduce my interest, on the contrary, I am even more curious. I research the parts that I think I need to research and leave the rest because some topics are too deep and need to be looked at again later.</br></br>
+
+### Day 5
+I read "Principles of Cognitive Neuroscience" until page 40s. Then read "Neuroscience 6th" only 5 pages (it took me 2.5 hours to read 5 pages???). I realized that I need to work Neuroscience calmly and without ruining the order. The discipline of neuroscience gives me a much more settled feeling than programming.</br></br>
+
+### Day 6
+I skipped over "Principles of Cognitive Neuroscience" and started to "Cognitive Neuroscience: The Biology of the Mind". Well, I won't continue to skip. I did this because the second book is much more up-to-date and recommended. I read the holy book "Neuroscience" 10 pages with lots of dictionary checking, searching for unknown biological and medical terms. I understand "patience" is the key...</br></br>
+
+> I will create another section for the review of the books and topics in it.
+
