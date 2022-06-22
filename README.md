@@ -6,7 +6,7 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 1) [About my passion](#about-my-passion)
 2) [About this repository](#about-this-repository)
 3) [Resources](#resources)
-4) [Notes](#notes)
+4) [Notes](#daily-notes)
 
 
 <br/>
@@ -33,5 +33,32 @@ Courses to comprehend what is happening.</br>
 2) [Neurobiology](https://www.coursera.org/learn/neurobiology) </br>
 3) [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) (Course is given by Leonard E. White, Ph.D. who is also one of the writers of Neuroscience 6th Edition.) </br><br/><br/>
 
-## Notes
+## Daily Notes
 *Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources, I will be adding later.
+
+### Day 1
+I completed half of the course Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences. It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. Some links that I find useful for philosophy of the topic:
+- [Evolutionary Psychology](https://iep.utm.edu/evol-psy/)
+- [Evolution of Language](http://www.lel.ed.ac.uk/cle/)
+- [Niche Construction](https://nicheconstruction.com)
+- [Chimpanzee culture social learning](https://www.livescience.com/48727-chimpanzee-culture-social-learning.html?adbid=10152376199566761&adbpl=fb&adbpr=30478646760&cmpid=514627_20141112_35461417)
+- [Language, embodiment, and the cognitive niche](https://era.ed.ac.uk/handle/1842/1449)
+--------------
+- [The hard problem of consciousness (short video)](https://www.youtube.com/watch?v=kdbs-HUAxC8)
+- [Overview of philosophical problems concerning consciousness](http://plato.stanford.edu/entries/consciousness/)</br>
+#### Limitations of perceptual awareness:
+- [The Monkey Business Illusion (short video)](https://www.youtube.com/watch?v=IGQmdoK_ZfY&list=PLB228A1652CD49370&index=3)
+- [Selective Attention Test (short video)](https://www.youtube.com/watch?v=vJG698U2Mvo&list=PLB228A1652CD49370)
+--------------
+- [Expecting Ourselves?](https://philosophyofbrains.com/2015/12/16/expecting-ourselves.aspx)
+- [Whatever next? Predictive brains, situated agents, and the future of cognitive science](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/div-classtitlewhatever-next-predictive-brains-situated-agents-and-the-future-of-cognitive-sciencediv/33542C736E17E3D1D44E8D03BE5F4CD9)
+- [Spreading the Joy? Why the Machinery of Consciousness is (Probably) Still in the Head](https://www.research.ed.ac.uk/en/publications/spreading-the-joy-why-the-machinery-of-consciousness-is-probably-)
+#### Summary of key points
+- According to evolutionary psychology, evolutionary pressures would most likely produce a ‘modular’ mind.
+- Language most likely developed through a combination of biological and cultural evolution.
+- It is often unclear what "consciousness" means, and we should be careful when using colloquial terms like "consciousness" in science.
+- The scientific study of consciousness is concerned with several different phenomena, including attention, wakefulness, and phenomenal experience itself, which are not always connected.
+
+
+
+
