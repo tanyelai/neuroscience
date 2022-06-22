@@ -110,7 +110,5 @@ I read "Principles of Cognitive Neuroscience" until page 40s. Then read "Neurosc
 ### Day 6
 I skipped over "Principles of Cognitive Neuroscience" and started to "Cognitive Neuroscience: The Biology of the Mind". Well, I won't continue to skip. I did this because the second book is much more up-to-date and recommended. I read the holy book "Neuroscience" 10 pages with lots of dictionary checking, searching for unknown biological and medical terms. I understand "patience" is the key...</br></br>
 
-> I will create another section for the review of the books and topics in it.
-
 ### Day 7
 Off-day for cognitive neuroscience.
