@@ -6,7 +6,8 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 1) [About my passion](#about-my-passion)
 2) [About this repository](#about-this-repository)
 3) [Resources](#resources)
-4) [Notes](#daily-notes)
+4) [Diary](#diary)
+5) [Notes](#notes)
 
 
 <br/>
@@ -33,8 +34,7 @@ Courses to comprehend what is happening.</br>
 2) [Neurobiology](https://www.coursera.org/learn/neurobiology) </br>
 3) [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) (Course is given by Leonard E. White, Ph.D. who is also one of the writers of Neuroscience 6th Edition.) </br><br/><br/>
 
-## Daily Notes
-*Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources, I will be adding later.
+## Diary
 
 ### Day 1
 I completed half of the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences". It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. Some links that I find useful for philosophy of the topic:
@@ -82,12 +82,17 @@ I completed rest of the course Philosophy and the Sciences: Introduction to the 
 ### Day 3 
 I started course "Medical Neuroscience". Frankly, I feel pretty awkward watching this course. We haven't been studying anything biological since we started university, and the language barrier with medical terms puts an extra burden on it. Still, I can say that I understand 60-70% of what is being said, Dr. White explains the topics really well. He is pretty nice, in first week he starts with the long introduction of the course.
 
-I continued my research to find convenient resources for myself to start cognitive neuroscience. I will be updating [Resources](#resources) with my progress.</br></br>
+I continued my research to find convenient resources for myself to start cognitive neuroscience. I will be updating [Resources](#resources) with my progress.
+
+-----------
+I will not be able to share some links due to copyrights, but I will be writing some of the notes I took in the [Notes](#notes) section.
+
+-----------
 
 ### Day 4 
 In the second part of week one, he starts "Neuroanatomy". I completed the week one with lots of questions. He recommends Neuroscience 6th book for further information. (It seems really hard to read for me, but anyway, we are in the path.)
 
-I must say that the course "Medical Neuroscience" is one of the most difficult course I have ever taken. However, this difficulty does not reduce my interest, on the contrary, I am even more curious. I research the parts that I think I need to research and leave the rest because some topics are too deep and need to be looked at again later.</br></br>
+I must say that the course "Medical Neuroscience" is started as one of the most difficult course I have ever taken. However, this difficulty does not reduce my interest, on the contrary, I am even more curious. I research the parts that I think I need to research and leave the rest because some topics are too deep and need to be looked at again later.</br></br>
 
 ### Day 5
 I read "Principles of Cognitive Neuroscience" until page 40s. Then read "Neuroscience 6th" only 5 pages (it took me 2.5 hours to read 5 pages???). I realized that I need to work Neuroscience calmly and without ruining the order. The discipline of neuroscience gives me a much more settled feeling than programming.</br></br>
@@ -97,3 +102,7 @@ I skipped over "Principles of Cognitive Neuroscience" and started to "Cognitive 
 
 > I will create another section for the review of the books and topics in it.
 
+
+
+## Notes
+*Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources, I will be adding later.
