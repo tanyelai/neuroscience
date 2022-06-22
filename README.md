@@ -6,8 +6,8 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 1) [About my passion](#about-my-passion)
 2) [About this repository](#about-this-repository)
 3) [Resources](#resources)
-4) [Diary](#diary)
-5) [Notes](#notes)
+4) [Notes](#notes)
+5) [Diary](#diary)
 
 
 <br/>
@@ -34,10 +34,11 @@ Courses to comprehend what is happening.</br>
 2) [Neurobiology](https://www.coursera.org/learn/neurobiology) </br>
 3) [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) (Course is given by Leonard E. White, Ph.D. who is also one of the writers of Neuroscience 6th Edition.) </br><br/><br/>
 
-## Diary
 
-### Day 1
-I completed half of the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences". It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. Some links that I find useful for philosophy of the topic:
+## Notes
+
+### Philosophy of Cognitive Sciences
+*Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources, I will be adding later. Some links that I find useful for philosophy of the topic:
 - [Evolutionary Psychology](https://iep.utm.edu/evol-psy/)
 - [Evolution of Language](http://www.lel.ed.ac.uk/cle/)
 - [Niche Construction](https://nicheconstruction.com)
@@ -59,9 +60,7 @@ I completed half of the course "Philosophy and the Sciences: Introduction to the
 - It is often unclear what "consciousness" means, and we should be careful when using colloquial terms like "consciousness" in science.
 - The scientific study of consciousness is concerned with several different phenomena, including attention, wakefulness, and phenomenal experience itself, which are not always connected.
 
-
-### Day 2
-I completed rest of the course Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences. Some links that I find useful for philosophy of the topic at below, **Stanford Encyclopedia of Philosophy** is quite good resource.
+**Stanford Encyclopedia of Philosophy** is quite good resource.
 #### Computational theory of mind and connectionism
 - [Computational Theory of Mind](http://plato.stanford.edu/entries/computational-mind/)
 - [Connectionism](http://plato.stanford.edu/entries/connectionism/)
@@ -77,10 +76,21 @@ I completed rest of the course Philosophy and the Sciences: Introduction to the 
 #### Summary of key points
 - Cognition doesn't have to be just "in the head" - cognitive processing can be supported or complemented by bodily and environmental resources.
 - Simple behaviors (like moving around an environment) are often driven by perception and don't necessarily require something like a clear plan or goal.
-- When we take into account the role played by our cultural and linguistic environment, 'bodily' explanations of computing can scale up to higher (human) cognition.</br></br>
+- When we take into account the role played by our cultural and linguistic environment, 'bodily' explanations of computing can scale up to higher (human) cognition.
+------------------
+</br></br>
+
+## Diary
+
+### Day 1
+I completed half of the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences". It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. 
+
+
+### Day 2
+I completed rest of the course Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences.
 
 ### Day 3 
-I started course "Medical Neuroscience". Frankly, I feel pretty awkward watching this course. We haven't been studying anything biological since we started university, and the language barrier with medical terms puts an extra burden on it. Still, I can say that I understand 60-70% of what is being said, Dr. White explains the topics really well. He is pretty nice, in first week he starts with the long introduction of the course.
+I started course "Medical Neuroscience". He is pretty nice, in first week he starts with the long introduction of the course. He recommends Neuroscience 6th book for further information. (It seems really hard to read for me, but anyway, we are in the path.)
 
 I continued my research to find convenient resources for myself to start cognitive neuroscience. I will be updating [Resources](#resources) with my progress.
 
@@ -90,7 +100,7 @@ I will not be able to share some links due to copyrights, but I will be writing 
 -----------
 
 ### Day 4 
-In the second part of week one, he starts "Neuroanatomy". I completed the week one with lots of questions. He recommends Neuroscience 6th book for further information. (It seems really hard to read for me, but anyway, we are in the path.)
+In the second part of week one, he starts "Neuroanatomy". Frankly, I feel pretty awkward watching this course. We haven't been studying anything biological since we started university, and the language barrier with medical terms puts an extra burden on it. Still, I can say that I understand 60-70% of what is being said, Dr. White explains the topics really well. I completed the week one with lots of questions.
 
 I must say that the course "Medical Neuroscience" is started as one of the most difficult course I have ever taken. However, this difficulty does not reduce my interest, on the contrary, I am even more curious. I research the parts that I think I need to research and leave the rest because some topics are too deep and need to be looked at again later.</br></br>
 
@@ -102,7 +112,3 @@ I skipped over "Principles of Cognitive Neuroscience" and started to "Cognitive 
 
 > I will create another section for the review of the books and topics in it.
 
-
-
-## Notes
-*Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources, I will be adding later.
