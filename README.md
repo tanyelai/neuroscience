@@ -106,3 +106,6 @@ I skipped over "Principles of Cognitive Neuroscience" and started to "Cognitive 
 
 ### Day 7
 Off-day for cognitive neuroscience.
+
+### Day 8 
+Talked with my prof. in the university that commenced his doctorate in neuroscience. He did some recommendations. Lots of talks today. Couldn't find time to work. 
