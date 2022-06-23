@@ -108,4 +108,4 @@ I skipped over "Principles of Cognitive Neuroscience" and started to "Cognitive 
 Off-day for cognitive neuroscience.
 
 ### Day 8 
-I spoke with my professor at the university, who has a PhD in neuroscience. He gave some advice, and talked to so many people today. Couldn't find the time to work.
+I spoke with my professor at the university, who has a PhD in neuroscience. He gave some advice, and I talked to so many people today. Couldn't find the time to work.
