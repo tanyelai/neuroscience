@@ -13,7 +13,9 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 <br/>
 
 ## About my passion
-As can be easily seen, I have no past study on neuroscience. However, it has been my dream for a long time to explore the brain, understand cognitive processes and contribute something to this field. To prepare for this, I tried to improve myself in subjects related to my field at university. For example, "Object Recognition", "Attention", and "Language" topics in cognitive neuroscience can be considered as computer vision and natural language processing from machines' (AI's) terminological perspective. As a long term goal, I will develop artificial intelligence-based projects with having clear understanding of the neuroscience domain's problems and needs, by learning and combining the biological and psychological approaches. While I think that deep learning and new technologies can play an important role in the discovery of the brain, I rolled up my sleeves to learn traditional methods as well. I wake up every day with a different excitement for the new things I will learn because there are lots of unknown things that I want to solve, which is very interesting and I like in this field. How the brain works is simply fascinating.
+As can be easily seen, I have no past study on neuroscience. However, it has been my dream for a long time to explore the brain, understand cognitive processes and contribute something to this field. To prepare for this, I tried to improve myself in subjects related to my field at university. For example, "Object Recognition", "Attention", and "Language" topics in cognitive neuroscience can be considered as computer vision and natural language processing from machines' (AI's) terminological perspective. As a long term goal, I will develop artificial intelligence-based projects with having clear understanding of the neuroscience domain's problems and needs, by learning and combining the biological and psychological approaches. While I think that deep learning and new technologies can play an important role in the discovery of the brain, I rolled up my sleeves to learn traditional methods as well. I wake up every day with a different excitement for the new things I will learn because there are lots of unknown things that I want to solve, which is very interesting and I like in this field. 
+
+*How the brain works is simply fascinating.*
 <br/><br/><br/>
 
 ## About this repository
@@ -88,7 +90,13 @@ Thomas Willis first introduced us, in the mid 1600s, to the idea that damage to 
 
 Patients like those of Broca and Wernicke later supported the importance of specific brain locations on human behavior (like language -> [Broca's area](https://en.wikipedia.org/wiki/Broca%27s_area), [Redefining the role of Broca's area](https://www.pnas.org/doi/10.1073/pnas.1414491112)). Ramón y Cajal, Sherrington, and Brodmann, among others, provided evidence that although the microarchitecture of distinct brain regions could support a [localizationist](https://www.scirp.org/journal/paperinformation.aspx?paperid=80190) view of the brain, these areas are interconnected. 
 
-Soon, scientists began to realize that the integration of the brain’s neural networks might be what enables the mind.
+*Note that: Ramón y Cajal is considered by many to be the father of modern neuroscience for his pioneering research.*
+
+Soon, scientists began to realize that the integration of the brain’s neural networks might be what enables the mind. At the same time that neuroscientists were researching the brain, psychologists were studying the mind, with its thoughts, beliefs, intentions, and so forth. Out of the philosophical theory of empiricism came the idea of [associationism](https://plato.stanford.edu/entries/associationist-thought/): that any response followed by a reward would be maintained, and that these associations were the basis of how the mind learned. Associationism was the prevailing theory for many years, until Hebb emphasized the biological basis of learning, and Chomsky and Miller realized that associationism couldn’t explain all learning or all actions of the mind.
+
+Neuroscientists and psychologists both reached the conclusion that there is more to the brain than just the sum of its parts, that the brain must enable the mind--but how? The term cognitive neuroscience was coined in the late 1970s because the fields of neuroscience and psychology were once again coming together. Neuroscience was in need of the theories of the psychology of the mind, and psychology was ready for a greater understanding of the working of the brain. The resulting marriage is cognitive neuroscience.
+
+
 
 ----------
 <br/><br/><br/>
