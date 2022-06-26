@@ -91,6 +91,7 @@ Patients like those of Broca and Wernicke later supported the importance of spec
 Soon, scientists began to realize that the integration of the brain’s neural networks might be what enables the mind.
 
 ----------
+<br/><br/><br/>
 
 ## Diary
 
