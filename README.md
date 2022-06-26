@@ -42,7 +42,7 @@ Courses to comprehend what is happening.</br>
 ## Notes
 
 ### Philosophy of Cognitive Sciences
-*Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources, I will be adding later. Some links that I find useful for philosophy of the topic:
+*Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources. Some links that I find useful for philosophy of the topic:
 - [Evolutionary Psychology](https://iep.utm.edu/evol-psy/)
 - [Evolution of Language](http://www.lel.ed.ac.uk/cle/)
 - [Niche Construction](https://nicheconstruction.com)
