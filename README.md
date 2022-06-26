@@ -82,6 +82,16 @@ Courses to comprehend what is happening.</br>
 ------------------
 </br></br>
 
+### Cognitive Neuroscience The Biology of the Mind
+
+Thomas Willis first introduced us, in the mid 1600s, to the idea that damage to the brain could influence behavior and that the cerebral cortex might indeed be the seat of what makes us human. Phrenologists expanded on this idea and developed a localizationist view of the brain. Gall's interesting approach Phrenology is a theory of human behavior based upon the belief that an individual's character and mental faculties correlate with the shape of their head. He has a story with Napoleon, check [that](https://www.thebrain.mcgill.ca/flash/capsules/pdf_articles/phrenology.pdf).
+
+Patients like those of Broca and Wernicke later supported the importance of specific brain locations on human behavior (like language -> [Broca's area](https://en.wikipedia.org/wiki/Broca%27s_area), [Redefining the role of Broca's area](https://www.pnas.org/doi/10.1073/pnas.1414491112)). Ramón y Cajal, Sherrington, and Brodmann, among others, provided evidence that although the microarchitecture of distinct brain regions could support a [localizationist](https://www.scirp.org/journal/paperinformation.aspx?paperid=80190) view of the brain, these areas are interconnected. 
+
+Soon, scientists began to realize that the integration of the brain’s neural networks might be what enables the mind.
+
+----------
+
 ## Diary
 
 ### Day 1-2
@@ -111,3 +121,6 @@ Off-day for cognitive neuroscience.
 
 ### Day 8 
 I spoke with my professor at the university, who has a PhD in neuroscience. He gave some advice, and I talked to so many people at university today. Couldn't find the time to work.
+
+### Day 9-11
+I continue the book Cognitive Neuroscience: The Biology of the Mind. Their explanations of the topics are clear, and they provide several experiments and stories to make it more deducible. The nervous system descriptions are a bit more superficial than the neuroscience book, as expected, but they mention enough for this book.
