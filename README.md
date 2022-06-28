@@ -125,6 +125,13 @@ The **axon** is a single process that extends from the cell body. This structure
 Along the length of the axons, there are evenly spaced gaps in the myelin; these gaps are commonly referred to as **nodes of Ranvier**.
 
 ----------
+
+Neurons receive, evaluate, and transmit information. These processes are referred to as ***neuronal signaling*** ([Neuronal Signaling: an introduction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7377261/), [see neuronal signaling as figure](https://www.drawittoknowit.com/course/physiology/glossary/cellular-anatomy-physiology/neuronal-signaling)). Within a neuron, information moves from input synapses to output synapses through changes in the electrical state of the neuron caused by the flow of electrical currents within the neuron and across its neuronal membrane. Between neurons, information transfer across synapses is typically mediated chemically by *neurotransmitters* (signaling molecules); these synapses are called *chemical synapses*. At *electrical synapses*, however, signals between neurons travel via transsynaptic electrical currents.
+
+Most neurons are both *presynaptic* and *postsynaptic*: They are **presynaptic** when their axon’s output synapses make connections onto other neurons or targets, and they are **postsynaptic** when other neurons make a connection at input synapses onto their dendrites or elsewhere on the receiving neuron. 
+
+The voltage difference across the neuronal membrane in the resting state is typically about -70 millivolts (mV) inside, which is known as the *resting potential* or **resting membrane potential** ([figure](https://jackwestin.com/resources/mcat-content/plasma-membrane/membrane-potential)). This electrical-potential difference means that the neuron has at its disposal a kind of battery; and like a battery, the stored energy can be used to do work—signaling work.
+
 <br/><br/><br/>
 
 ## Diary
