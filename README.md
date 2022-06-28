@@ -126,6 +126,8 @@ The **axon** is a single process that extends from the cell body. This structure
 
 Along the length of the axons, there are evenly spaced gaps in the myelin; these gaps are commonly referred to as **nodes of Ranvier**. <br/>
 
+-------
+
 #### Neuronal Signaling
 
 Neurons receive, evaluate, and transmit information. These processes are referred to as ***neuronal signaling*** ([Neuronal Signaling: an introduction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7377261/), [see neuronal signaling as figure](https://www.drawittoknowit.com/course/physiology/glossary/cellular-anatomy-physiology/neuronal-signaling)). Within a neuron, information moves from input synapses to output synapses through changes in the electrical state of the neuron caused by the flow of electrical currents within the neuron and across its neuronal membrane. Between neurons, information transfer across synapses is typically mediated chemically by *neurotransmitters* (signaling molecules); these synapses are called *chemical synapses*. At *electrical synapses*, however, signals between neurons travel via transsynaptic electrical currents.
@@ -149,6 +151,8 @@ The ion channels of concern to us—the ones found in neurons—are selective fo
 * Nodes of Ranvier are the spaces between sheaths of myelin where voltage-gated Na1 and K1 channels are located and action potentials occur.
 * Postsynaptic potentials lead to action potentials but also can be measured from large populations of neurons by electrodes located some distance away, such as the scalp, as when the oscillatory signals in an electro- encephalogram (EEG) are being recorded.
 
+-------
+
 ### Synaptic Transmission
 Neurons communicate with other neurons, with muscles, or with glands at synapses, and the transfer of a signal from the axon terminal of one neuron to the next neuron is called *synaptic transmission*. There are two major kinds of synapses—chemical and electrical—each using very different mechanisms for synaptic transmission.
 
@@ -156,6 +160,8 @@ Neurons communicate with other neurons, with muscles, or with glands at synapses
 Most neurons send a signal to the cell across the synapse by releasing chemical neurotransmitters into the synaptic cleft, the gap between neurons at the synapse. The general mechanism is as follows: the arrival of the action potential at the axon terminal leads to depolarization of the terminal membrane, causing voltage-gated "Ca" channels to open. The opening of these channels triggers small vesicles containing neurotransmitter to fuse with the membrane at the synapse and release the transmitter into the synaptic cleft. 
 
 There are two types of postsynaptic receptors: ligand-gated ion channels where neurotransmitter binding directly gates (opens) the ion channel, and G protein–coupled receptors (GPCRs) where biochemical signals indirectly cause the gating of ion channels; G proteins are those that bind the guanine nucleotides GDP and GTP (guanosine di- and triphosphate) and act as molecular switches in cells. Specific neurotransmitters bind to each type of postsynap-tic receptor. In ligand-gated ion channels, binding induces a conformational change in the receptor.
+
+-------
 
 <br/><br/><br/>
 
