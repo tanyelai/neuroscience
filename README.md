@@ -153,7 +153,7 @@ The ion channels of concern to us—the ones found in neurons—are selective fo
 Neurons communicate with other neurons, with muscles, or with glands at synapses, and the transfer of a signal from the axon terminal of one neuron to the next neuron is called *synaptic transmission*. There are two major kinds of synapses—chemical and electrical—each using very different mechanisms for synaptic transmission.
 
 #### Chemical Transmission
-Most neurons send a signal to the cell across the synapse by releasing chemical neurotransmitters into the synaptic cleft, the gap between neurons at the synapse. The general mechanism is as follows: the arrival of the action potential at the axon terminal leads to depolarization of the terminal membrane, causing voltage-gated "Ca" channels to open. !e opening of these channels triggers small vesicles containing neurotransmitter to fuse with the membrane at the synapse and release the transmitter into the synaptic cleft. 
+Most neurons send a signal to the cell across the synapse by releasing chemical neurotransmitters into the synaptic cleft, the gap between neurons at the synapse. The general mechanism is as follows: the arrival of the action potential at the axon terminal leads to depolarization of the terminal membrane, causing voltage-gated "Ca" channels to open. The opening of these channels triggers small vesicles containing neurotransmitter to fuse with the membrane at the synapse and release the transmitter into the synaptic cleft. 
 
 There are two types of postsynaptic receptors: ligand-gated ion channels where neurotransmitter binding directly gates (opens) the ion channel, and G protein–coupled receptors (GPCRs) where biochemical signals indirectly cause the gating of ion channels; G proteins are those that bind the guanine nucleotides GDP and GTP (guanosine di- and triphosphate) and act as molecular switches in cells. Specific neurotransmitters bind to each type of postsynap-tic receptor. In ligand-gated ion channels, binding induces a conformational change in the receptor.
 
@@ -190,4 +190,7 @@ Off-day for cognitive neuroscience.
 I spoke with my professor at the university, who has a PhD in neuroscience. He gave some advice, and I talked to so many people at university today. Couldn't find the time to work.
 
 ### Day 9-11
-I continue the book Cognitive Neuroscience: The Biology of the Mind. Their explanations of the topics are clear, and they provide several experiments and stories to make it more deducible. The nervous system descriptions are a bit more superficial than the neuroscience book, as expected, but they mention enough for this book.
+I continue the book Cognitive Neuroscience: The Biology of the Mind. Their explanations of the topics are clear, and they provide several experiments and stories to make it more deducible.
+
+### Day 12-13
+I learned about the nervous systems. It recalled knowledge that I already have at high school. It is really strange feeling tho. When I was in high school, I was thinking and grumbling like "all of these informations are useless and we will never use". Of course, there are some thinks I see the first time. However, some of the new information were like I have always wondered, but have never made research about it. This chapter (Structure and Function of the Nervous System) is quite satisfying and full of useful information to fill spaces in the mind. I guess this chapter is one of the most technical one, and I think I will be even more enjoyed in other chapters.
