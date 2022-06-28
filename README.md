@@ -130,7 +130,22 @@ Neurons receive, evaluate, and transmit information. These processes are referre
 
 Most neurons are both *presynaptic* and *postsynaptic*: They are **presynaptic** when their axon’s output synapses make connections onto other neurons or targets, and they are **postsynaptic** when other neurons make a connection at input synapses onto their dendrites or elsewhere on the receiving neuron. 
 
-The voltage difference across the neuronal membrane in the resting state is typically about -70 millivolts (mV) inside, which is known as the *resting potential* or **resting membrane potential** ([figure](https://jackwestin.com/resources/mcat-content/plasma-membrane/membrane-potential)). This electrical-potential difference means that the neuron has at its disposal a kind of battery; and like a battery, the stored energy can be used to do work—signaling work.
+The voltage difference across the neuronal membrane in the resting state is typically about -70 millivolts (mV) inside, which is known as the *resting potential* or **resting membrane potential** ([figure](https://jackwestin.com/resources/mcat-content/plasma-membrane/membrane-potential)). This electrical-potential difference means that the neuron has at its disposal a kind of battery; and like a battery, the stored energy can be used to do work—signaling work. 
+
+The membrane is peppered with transmembrane proteins, some of which serve as conduits for ions to move across the membrane. These proteins are of two main types: ion channels and ion pumps. Ion channels, as we will see, are proteins with a pore through the center, and they allow certain ions to *ow down their electrochemical and concentration gradients. Ion pumps use energy to actively transport ions across the membrane against their concentration gradients—that is, from regions of low concentration to regions of higher concentration.
+
+The ion channels of concern to us—the ones found in neurons—are selective for sodium, potassium, calcium, or chloride ions (Na, K, Ca, and Cl, respectively). The extent to which a particular ion can cross the membrane through a given ion channel is referred to as its **permeability**. 
+
+##### Take-Home Messages from Writers
+* Glial cells form myelin around the axons of neurons. Myelin enables the rapid transmission of action potentials down an axon and increases the distance over which transmission can occur.
+* Neurons communicate with other neurons and cells at specialized structures called synapses, where chemical and electrical signals can be conveyed between neurons.
+* The electrical gradient across a neuron’s membrane results from the asymmetrical distribution of ions. The electrical difference across the membrane is the basis of the resting potential, the voltage difference across the neuronal membrane during rest (i.e., not during any phase of the action potential).
+* Ion channels, formed by transmembrane proteins, can be either passive (always open) or gated (open only in the presence of electrical, chemical, or physical stimuli).
+* Synaptic inputs result in postsynaptic potentials, and current to flow in the postsynaptic neuron.
+* Postsynaptic currents can depolarize the axon hillock region, generating an action potential.
+* Action potentials are all-or-none phenomena: The amplitude of the action potential does not depend on the size of the triggering depolarization, as long as that depolarization reaches the threshold for initiating the action potential.
+* Nodes of Ranvier are the spaces between sheaths of myelin where voltage-gated Na1 and K1 channels are located and action potentials occur.
+* Postsynaptic potentials lead to action potentials but also can be measured from large populations of neurons by electrodes located some distance away, such as the scalp, as when the oscillatory signals in an electro- encephalogram (EEG) are being recorded.
 
 <br/><br/><br/>
 
