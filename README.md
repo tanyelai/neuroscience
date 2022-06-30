@@ -15,7 +15,7 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 ## About my passion
 As can be easily seen, I have no past study on neuroscience. However, it has been my dream for a long time to explore the brain, understand cognitive processes and contribute something to this field. To prepare for this, I tried to improve myself in subjects related to my field at university. For example, "Object Recognition", "Attention", and "Language" topics in cognitive neuroscience can be considered as computer vision and natural language processing from machines' (AI's) terminological perspective. As a long term goal, I will develop artificial intelligence-based projects with having clear understanding of the neuroscience domain's problems and needs, by learning and combining the biological and psychological approaches. While I think that deep learning and new technologies can play an important role in the discovery of the brain, I rolled up my sleeves to learn traditional methods as well. I wake up every day with a different excitement for the new things I will learn because there are lots of unknown things that I want to solve, which is very interesting and I like in this field. 
 
-*How the brain works is simply fascinating.*
+*Brain is simply fascinating.*
 <br/><br/><br/>
 
 ## About this repository
