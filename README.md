@@ -202,4 +202,4 @@ I continue the book Cognitive Neuroscience: The Biology of the Mind. Their expla
 I learned about the nervous systems. It recalled knowledge that I already have at high school. It is really strange feeling tho. When I was in high school, I was thinking and grumbling like "all of these informations are useless and we will never use". Of course, there are some stuff I see the first time. However, some of the new information were like I have always wondered, but have never made research about it. This chapter (Structure and Function of the Nervous System) is quite satisfying and full of useful information to fill spaces in the mind. I guess this chapter is one of the most technical one, and I think I will be even more enjoyed in other chapters.
 
 ### Day 14-17
-Off-day for cognitive neuroscience. I am working on 3 different research project, so I needed to be focused on others. Worked on signal processing.
+Off-day for cognitive neuroscience. I am working on 3 different research projects, so I needed to be focused on others. Worked on signal processing.
