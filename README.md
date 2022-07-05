@@ -203,3 +203,6 @@ I learned about the nervous systems. It recalled knowledge that I already have a
 
 ### Day 14-18
 Off-days for cognitive neuroscience. I am working on 3 different research projects, so I needed to be focused on others. Worked on signal processing and eye-tracking.
+
+### Day 19
+I started watching and completed first week of course "Understanding the Brain: The Neurobiology of Everyday Life". It is lightweight version of Medical Neuroscience and Cognitive Neuroscience book. Actually, in this case I repeated same topics for 3 or 4 times from different resources without realising. Anyway, in my opinion it is important to repeat these main vocabulary of neurobiology and cognition to take it in the long-term memory and you can use the same order which is 1) watching course "Medical Neuroscience", 2) reading book and stuff about Cognitive Neuroscience, 3) watching course "Understanding the Brain: The Neurobiology of Everyday Life". I started feel the knowledge, but also see I still have quuiite looong way to go.
