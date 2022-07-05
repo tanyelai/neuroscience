@@ -2,7 +2,7 @@
 
 I'm keeping this repository for those who are afraid to start neuroscience or something else because it seems dark, comprehensive, and complex, even though it interests them a lot. I'm at the same point, and let's see how far we can go with self-discipline.
 
-**Note that:** Neuroscience is more theoretical than cognitive science, however, these both requires experimental studies to go further after reaching some level of knowledge, especially cognitive science. Therefore, in this repository we will be covering whole theoretical background of these studies with lack of experience. I personally want to study cognitive neuroscience at my phd and we need to start from somewhere.
+**Note that:** Neuroscience is more theoretical than cognitive science, however, these both requires experimental studies to go further after reaching some level of knowledge, especially cognitive science. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience. I personally want to study cognitive neuroscience at my phd and we need to start from somewhere.
 
 ### Table of contents
 1) [About my passion](#about-my-passion)
