@@ -2,7 +2,7 @@
 
 I'm keeping this repository for those who are afraid to start neuroscience or something else because it seems dark, comprehensive, and complex, even though it interests them a lot. I'm at the same point, and let's see how far we can go with self-discipline.
 
-**Note that:** Neuroscience is more theoretical than cognitive science, however, these both requires experimental studies to go further after reaching some level of knowledge, especially for cognitive science. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience. I personally want to study cognitive neuroscience at my phd and we need to start from somewhere.
+**Note that:** Neuroscience is more theoretical than cognitive science, however, these both require experimental studies to go further after reaching some level of knowledge, especially for cognitive science. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience. I personally want to study cognitive neuroscience at my phd and we need to start from somewhere.
 
 ### Table of contents
 1) [About my passion](#about-my-passion)
@@ -34,11 +34,14 @@ In this repository, you will find the resources I have found up-to-date, what I 
 (Note: It's also easy to read, it simplifies very complex topics. Good book. I didn't read it all, I skipped over it.)</br>
 4) Neuroscience 6th Edition {2018} <br/>
 (Note: Pretty hard to read, best to go with the main course. Best medicine for its patient.)
+5) Analyzing Neural Time Series Data Theory and Practice (Mike X Cohen)
+(Note: I started this book for learning signal processing from scratch for EEG data. His writing style is really enjoyable.)</br>
 ### Courses
 Courses to comprehend what is happening.</br>
 1) [Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences/) 
 2) [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology) </br>
 3) [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) (Course is given by Leonard E. White, Ph.D. who is also one of the writers of Neuroscience 6th Edition.) </br><br/><br/>
+4) [Neuroscience time series analyses](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists?view=50&sort=dd&shelf_id=1)
 
 
 ## Notes
@@ -208,3 +211,6 @@ Off-days for cognitive neuroscience. I am working on 3 different research projec
 
 ### Day 19
 I started watching and completed first week of course "Understanding the Brain: The Neurobiology of Everyday Life". It is lightweight version of Medical Neuroscience and Cognitive Neuroscience book. Actually, in this case I repeated same topics for 3 or 4 times from different resources without realising. Anyway, in my opinion it is important to repeat these main vocabulary of neurobiology and cognition to take it in the long-term memory and you can use the same order which is 1) watching course "Medical Neuroscience", 2) reading book and stuff about Cognitive Neuroscience, 3) watching course "Understanding the Brain: The Neurobiology of Everyday Life". I started feel the knowledge, but also see I still have quuiite looong way to go.
+
+### Day 20-21
+I started signal processing for neuroscience, Mike X Cohen's book "Analyzing Neural Time Series Data Theory and Practice" and videos. I am still making literature review for eye-tracking for programming. In 1990, [How do we read algorithms? A case study.](https://ieeexplore.ieee.org/document/48797) proposed the analysis of data collected from eye movement to investigate the cognitive process of programmers, based on theories that linked eye fixation to comprehension to understand how programmers read and understand algorithms. I do my research about extraction features of comprehension state from eye-tracking outputs.
