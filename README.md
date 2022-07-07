@@ -34,7 +34,7 @@ In this repository, you will find the resources I have found up-to-date, what I 
 (Note: It's also easy to read, it simplifies very complex topics. Good book. I didn't read it all, I skipped over it.)</br>
 4) Neuroscience 6th Edition {2018} <br/>
 (Note: Pretty hard to read, best to go with the main course. Best medicine for its patient.)
-5) Analyzing Neural Time Series Data Theory and Practice (Mike X Cohen)
+5) Analyzing Neural Time Series Data Theory and Practice {2014} (Mike X Cohen) <br/>
 (Note: I started this book for learning signal processing from scratch for EEG data. His writing style is really enjoyable.)</br>
 ### Courses
 Courses to comprehend what is happening.</br>
