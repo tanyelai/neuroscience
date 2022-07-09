@@ -40,9 +40,9 @@ In this repository, you will find the resources I have found up-to-date, what I 
 Courses to comprehend what is happening.</br>
 1) [Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences/) 
 2) [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology) </br>
-3) [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) (Course is given by Leonard E. White, Ph.D. who is also one of the writers of Neuroscience 6th Edition.) </br><br/><br/>
-4) [Neuroscience time series analyses](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists?view=50&sort=dd&shelf_id=1)
-
+3) [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) (Course is given by Leonard E. White, Ph.D. who is also one of the writers of Neuroscience 6th Edition.) </br>
+4) [Neuroscience time series analyses (free - youtube)](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists?view=50&sort=dd&shelf_id=1)</br>
+5) [Neuroscience time series analyses (paid - more resources and from scratch matlab codes/data)](https://www.udemy.com/course/solved-challenges-ants/)</br><br/><br/>
 
 ## Notes
 
@@ -214,3 +214,8 @@ I started watching and completed first week of course "Understanding the Brain: 
 
 ### Day 20-21
 I started signal processing for neuroscience, Mike X Cohen's book "Analyzing Neural Time Series Data Theory and Practice" and videos. I am still making literature review for eye-tracking for programming. In 1990, [How do we read algorithms? A case study.](https://ieeexplore.ieee.org/document/48797) proposed the analysis of data collected from eye movement to investigate the cognitive process of programmers, based on theories that linked eye fixation to comprehension to understand how programmers read and understand algorithms. I do my research about extraction features of comprehension state from eye-tracking outputs.
+
+### Day 22
+Today was the first productive day of my new program. I realised that I cannot keep up with the lots of new knowledge and research projects without restrict plan, so I made one. 
+
+I continued through medical neuroscience course. I finished the part of Cerebral Cortex, Brainstem and Blood Supply, and it was really hard to keep up with. I spent a fair amount of time understanding the locations of the arteries and the brain regions they supply, however, quiz was really hard to pass. I read the part of CNS, and Blood Supply and the Brain from Cognitive Neuroscience book. I watched the next videos of Mike X Cohen's and I start feel to really really enjoy this process. Even though it is painful, I can feel that I learn actual science. I read Mike Cohen's book on signal processing and analysis and repeated what he explained in the videos.
