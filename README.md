@@ -46,6 +46,15 @@ Courses to comprehend what is happening.</br>
 
 ## Notes
 
+### Table of note contents
+1) [Philosophy of Cognitive Sciences](#philosophy-of-cognitive-sciences)
+2) [Cognitive Neuroscience The Biology of the Mind](#cognitive-neuroscience-the-biology-of-the-mind)
+3) [Analyzing Neural Time Series Data Theory and Practice](#analyzing-neural-time-series-data-theory-and-practice)
+
+</br><br/><br/>
+
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/44132720/178269352-f73628e0-42d1-401f-b861-065d057b6f5a.png">
+
 ## Philosophy of Cognitive Sciences
 *Philosophy of Cognitive Sciences* is a short course that provides fundamental theories. They share lots of additional reading sources. Some links that I find useful for philosophy of the topic:
 - [Evolutionary Psychology](https://iep.utm.edu/evol-psy/)
@@ -87,7 +96,9 @@ Courses to comprehend what is happening.</br>
 - Simple behaviors (like moving around an environment) are often driven by perception and don't necessarily require something like a clear plan or goal.
 - When we take into account the role played by our cultural and linguistic environment, 'bodily' explanations of computing can scale up to higher (human) cognition.
 ------------------
-</br></br>
+</br></br></br>
+
+<img width="516" alt="image" src="https://user-images.githubusercontent.com/44132720/178272284-dc7ca2aa-b247-4226-8442-cf242ee1be71.png">
 
 ## Cognitive Neuroscience The Biology of the Mind
 
@@ -167,7 +178,13 @@ Most neurons send a signal to the cell across the synapse by releasing chemical 
 There are two types of postsynaptic receptors: ligand-gated ion channels where neurotransmitter binding directly gates (opens) the ion channel, and G protein–coupled receptors (GPCRs) where biochemical signals indirectly cause the gating of ion channels; G proteins are those that bind the guanine nucleotides GDP and GTP (guanosine di- and triphosphate) and act as molecular switches in cells. Specific neurotransmitters bind to each type of postsynap-tic receptor. In ligand-gated ion channels, binding induces a conformational change in the receptor.
 
 -------
+<br/><br/><br/>
 
+<img width="859" alt="image" src="https://user-images.githubusercontent.com/44132720/178269625-55218c4b-aaee-4ece-a088-d760e2e60604.png">
+
+## Analyzing Neural Time Series Data Theory and Practice
+
+-------
 <br/><br/><br/>
 
 ## Diary
