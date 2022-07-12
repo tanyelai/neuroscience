@@ -238,7 +238,7 @@ Today was the first productive day of my new program. I realised that I cannot k
 I continued through medical neuroscience course. I finished the part of Cerebral Cortex, Brainstem and Blood Supply, and it was really hard to keep up with. I spent a fair amount of time understanding the locations of the arteries and the brain regions they supply, however, quiz was really hard to pass. I read the part of CNS, and Blood Supply and the Brain from Cognitive Neuroscience book. I watched the next videos of Mike X Cohen's and I start feel to really really enjoy this process. Even though it is painful, I can feel that I learn actual science. I read Mike Cohen's book on signal processing and analysis and repeated what he explained in the videos.
 
 ### Day 23-25
-Well, in this period, I studied like an actual nerd (10+ hours daily). I am also reading the book "atomic habits", so I got some tips to organize my study routine and its effectiveness :) 
+Well, in this period, I studied like an actual nerd (9+ hours daily). I am also reading the book "atomic habits", so I got some tips to organize my study routine and its effectiveness :) 
 
 Here below is the my current daily routine which I think its quite nice to practice topics over and over again and progress in a solid way. <br/> ( You can feel the knowledge in your veins ): <br/>
 1) [5AM - 6AM] -> Reading casual totally normal human book <br/>
