@@ -237,7 +237,7 @@ Today was the first productive day of my new program. I realised that I cannot k
 
 I continued through medical neuroscience course. I finished the part of Cerebral Cortex, Brainstem and Blood Supply, and it was really hard to keep up with. I spent a fair amount of time understanding the locations of the arteries and the brain regions they supply, however, quiz was really hard to pass. I read the part of CNS, and Blood Supply and the Brain from Cognitive Neuroscience book. I watched the next videos of Mike X Cohen's and I start feel to really really enjoy this process. Even though it is painful, I can feel that I learn actual science. I read Mike Cohen's book on signal processing and analysis and repeated what he explained in the videos.
 
-### Day 23-29
+### Day 23-30
 Well, in this period, I studied like an actual nerd. I am also reading the book "atomic habits", so I got some tips to organize my study routine and its effectiveness :) 
 
 Here below is the my current daily routine which I think its quite nice to practice topics over and over again and progress in a solid way. <br/> ( You can feel the knowledge in your veins ): <br/>
@@ -250,3 +250,5 @@ Here below is the my current daily routine which I think its quite nice to pract
 7) [6PM - 7PM] -> Reading/studying neural signal processing book <br/>
 
 I realized that all materials I study are supporting each other. Neuroanatomy is the most hard topic for me right now, and it definitely requires lots of repetition on same topics to memorize exact location of each nerves, brain regions and functions of whole complex structures. Thus, I think this study plan is quite effective.
+
+In some days, I just could not find any power to study one more hour signal processing from book as last study task. However, it's still okay, we're fine. I am still breathing.
