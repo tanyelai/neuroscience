@@ -41,15 +41,15 @@ Courses to comprehend what is happening.</br>
 1) [Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences/) 
 2) [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology) </br>
 3) [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) (Course is given by Leonard E. White, Ph.D. who is also one of the writers of Neuroscience 6th Edition.) </br>
-4) [Neuroscience time series analyses (free - youtube)](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists?view=50&sort=dd&shelf_id=1)</br>
-5) [Neuroscience time series analyses (paid - more resources and from scratch matlab codes/data)](https://www.udemy.com/course/solved-challenges-ants/)</br><br/><br/>
+4) [Neuroscience time series analyses](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists?view=50&sort=dd&shelf_id=1) (free - youtube) </br>
+5) [Neuroscience time series analyses](https://www.udemy.com/course/solved-challenges-ants/) (paid - more resources and from scratch matlab codes/data) </br><br/><br/>
 
 ## Notes
 
 ### Table of note contents
-1) [Philosophy of Cognitive Sciences](#philosophy-of-cognitive-sciences)
-2) [Cognitive Neuroscience The Biology of the Mind](#cognitive-neuroscience-the-biology-of-the-mind)
-3) [Analyzing Neural Time Series Data Theory and Practice](#analyzing-neural-time-series-data-theory-and-practice)
+1) [Philosophy of Cognitive Sciences](https://github.com/Toygarr/cognitive-neuroscience/blob/main/NOTES/philosophy_of_cognitive_sciences.md)
+2) [Cognitive Neuroscience The Biology of the Mind](https://github.com/Toygarr/cognitive-neuroscience/blob/main/NOTES/cognitive_neuroscience_book.md)
+3) Analyzing Neural Time Series Data Theory and Practice -- will be added later
 
 </br><br/><br/>
 
@@ -105,7 +105,7 @@ Today was the first productive day of my new program. I realised that I cannot k
 I continued through medical neuroscience course. I finished the part of Cerebral Cortex, Brainstem and Blood Supply, and it was really hard to keep up with. I spent a fair amount of time understanding the locations of the arteries and the brain regions they supply, however, quiz was really hard to pass. I read the part of CNS, and Blood Supply and the Brain from Cognitive Neuroscience book. I watched the next videos of Mike X Cohen's and I start feel to really really enjoy this process. Even though it is painful, I can feel that I learn actual science. I read Mike Cohen's book on signal processing and analysis and repeated what he explained in the videos.
 
 ### Day 23-30
-Well, in this period, I studied like an actual nerd. I am also reading the book "atomic habits", so I got some tips to organize my study routine and its effectiveness :) 
+Well, in this period, I studied like an actual nerd. I also read the book "atomic habits" recently, so I got some tips to organize my study routine and its effectiveness :) 
 
 Here below is the my current daily routine which I think its quite nice to practice topics over and over again and progress in a solid way. <br/> ( You can feel the knowledge in your veins ): <br/>
 1) [5AM - 6AM] -> Reading casual totally normal human book <br/>
