@@ -119,3 +119,12 @@ Here below is the my current daily routine which I think its quite nice to pract
 I realized that all materials I study are supporting each other. Neuroanatomy is the most hard topic for me right now, and it definitely requires lots of repetition on same topics to memorize exact location of each nerves, brain regions and functions of whole complex structures. Thus, I think this study plan is quite effective.
 
 In some days, I just could not find any power to study one more hour signal processing from book as last study task. However, it's still okay, we're fine. I am still breathing.
+
+### Day 31-32
+I decreased the amount of study, and went to university to socialize and catch up. 
+Anyways, I completed 3rd week of Medical Neuroscience and 3rd week of Neurobiology. I am also at middle of the static spectral analysis on Mike Cohen's course.
+
+### After 3 weeks of courses
+***About Medical Neuroscience:*** As I mentioned before, it is one of the most comprehensive online course I have ever taken. I learn a lot, I forget a lot, however, it is still quite useful and significant to comprehend how medical side of neuroscience think. This course provides numerous insights about neuroscience. <br/>
+
+***About Neurobiology:*** It cannot be considered as comprehensive if we consider medical neuroscience course load. It includes light-weighted and non-medical aspects of neurobiology. <br/>
