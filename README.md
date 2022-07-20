@@ -120,7 +120,7 @@ I realized that all materials I study are supporting each other. Neuroanatomy is
 
 In some days, I just could not find any power to study one more hour signal processing from book as last study task. However, it's still okay, we're fine. I am still breathing.
 
-### Day 31-32
+### Day 31-34
 I decreased the amount of study, and went to university to socialize and catch up. 
 Anyways, I completed 3rd week of Medical Neuroscience and 3rd week of Neurobiology. I am also at middle of the static spectral analysis on Mike Cohen's course.
 
@@ -128,3 +128,6 @@ Anyways, I completed 3rd week of Medical Neuroscience and 3rd week of Neurobiolo
 ***About Medical Neuroscience:*** As I mentioned before, it is one of the most comprehensive online course I have ever taken. I learn a lot, I forget a lot, however, it is still quite useful and significant to comprehend how medical side of neuroscience think. This course provides numerous insights about neuroscience. <br/>
 
 ***About Neurobiology:*** It cannot be considered as comprehensive if we consider medical neuroscience course load. It includes light-weighted and non-medical aspects of neurobiology. <br/>
+
+### Day 35
+I will study IELTS for 3 days. Time for a little break for neuroscience. 
