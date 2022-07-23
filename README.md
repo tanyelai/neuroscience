@@ -129,5 +129,5 @@ Anyways, I completed 3rd week of Medical Neuroscience and 3rd week of Neurobiolo
 
 ***About Neurobiology:*** It cannot be considered as comprehensive if we consider medical neuroscience course load. It includes light-weighted and non-medical aspects of neurobiology. <br/>
 
-### Day 35
-I will study IELTS for 3 days. It's time to give a break for neuroscience. 
+### Day 35-38
+I study IELTS for 3 days. It's time to give a break for neuroscience. 
