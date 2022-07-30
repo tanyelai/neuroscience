@@ -136,3 +136,6 @@ It's time to give a break for neuroscience.
 Neurobiology course week 4 is done and I am too close to complete 4th week of medical neuroscience. I started reading Neural Signal Analysis systematically. I also learnt some about the neurodegenerative diseases from cognitive neuroscience book.
 
 The more I learn about the brain, the more I want to continue. I still have the passion it seems. There are enormous amount of interesting facts and fields to study. 
+
+### Day 44-45
+Everything goes nicely.
