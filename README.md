@@ -133,9 +133,12 @@ Anyways, I completed 3rd week of Medical Neuroscience and 3rd week of Neurobiolo
 It's time to give a break for neuroscience. 
 
 ### Day 39-43
-Neurobiology course week 4 is done and I am too close to complete 4th week of medical neuroscience. I started reading Neural Signal Analysis systematically. I also learnt some about the neurodegenerative diseases from cognitive neuroscience book.
+Neurobiology course week 4 is done and I am close to complete 4th week of medical neuroscience. I started reading Neural Signal Analysis systematically. I also learnt some about the neurodegenerative diseases from cognitive neuroscience book.
 
 The more I learn about the brain, the more I want to continue. I still have the passion it seems. There are enormous amount of interesting facts and fields to study. 
 
-### Day 44-45
-Everything goes nicely.
+### Day 44-46
+Neuroscience week 4 is also done. I learnt about Synaptic Transmission and Synaptic Plasticity, however, it is quite hard to figure out.
+I continued the neurodegenerative diseases from cog. neurosci. book. I am at the Methods to Perturb Neural Function. I feel like I am not studying enough, but here we are.
+
+Anyways, I think it is important to not break rhythm of study.
