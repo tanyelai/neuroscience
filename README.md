@@ -142,3 +142,6 @@ Neuroscience week 4 is also done. I learnt about Synaptic Transmission and Synap
 I continued the neurodegenerative diseases from cog. neurosci. book. I am at the Methods to Perturb Neural Function. I feel like I am not studying enough, but here we are.
 
 Anyways, I think it is important to not break rhythm of study.
+
+### Day 47-53
+I studied Sensory Systems. I did some visitings, and I am about to start project in Tactile Research Laboratory at Boğaziçi University.
