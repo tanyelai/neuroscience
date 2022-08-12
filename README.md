@@ -1,4 +1,4 @@
-# Cognitive Neuroscience
+# Neuroscience
 
 I'm keeping this repository for those who are afraid to start neuroscience or something else because it seems dark, comprehensive, and complex, even though it interests them a lot. I'm at the same point, and let's see how far we can go with self-discipline.
 
@@ -150,3 +150,6 @@ I studied Sensory Systems. I did some visitings, and I am about to start project
 Well, anatomy of neural systems makes me a little bit sad. I cannot manage sparing enough time for practicing and memorizing, and there are loottts of things to memorize. I finished the 5th week of Medical Neuroscience. I am pretty sure that I will watch these videos 2-3 times again and again next year, because when I use the feynman technique, I mostly figure out how much I do not understand :) 
 
 For now, my main purpose is to get a familiarity with the deep neuroscience topics, and I think it is quite useful while reading academic papers even though I cannot memorize most of the topics, at least it makes sense.
+
+### Day 58-62
+I completed hearing and vestibular system & gaze in Neurobiology course and started Movement and Motor Control at Medical Neuroscience. I am trying to develop note taking skills, however, it is still quite hard to keep up with.
