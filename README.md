@@ -2,7 +2,7 @@
 
 I'm keeping this repository for those who are afraid to start neuroscience or something else because it seems dark, comprehensive, and complex, even though it interests them a lot. I'm at the same point, and let's see how far we can go with self-discipline.
 
-**Note that:** Neuroscience is more theoretical than cognitive science, however, these both require experimental studies to go further after reaching some level of knowledge, especially for cognitive science. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience. I personally want to study cognitive neuroscience at my phd and we need to start from somewhere.
+**Note that:** Neuroscience is more theoretical than cognitive science, however, these both require experimental studies to go further after reaching some level of knowledge. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience (Edit: Well, with commiting myself to neuroscience I also found a chance to get experience in Tactile Research Laboratory at Boğaziçi University where I also work for now). I personally want to study cognitive neuroscience at my phd and we need to start from somewhere. 
 
 ### Table of contents
 1) [About my passion](#about-my-passion)
@@ -15,7 +15,7 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 <br/>
 
 ## About my passion
-As can be easily seen, I have no past study on neuroscience. However, it has been my dream for a long time to explore the brain, understand cognitive processes and contribute something to this field. To prepare for this, I tried to improve myself in subjects related to my field at university. For example, "Object Recognition", "Attention", and "Language" topics in cognitive neuroscience can be considered as computer vision and natural language processing from machines' (AI's) terminological perspective. As a long term goal, I will develop artificial intelligence-based projects with having clear understanding of the neuroscience domain's problems and needs, by learning and combining the biological and psychological approaches. While I think that deep learning and new technologies can play an important role in the discovery of the brain, I rolled up my sleeves to learn traditional methods as well. I wake up every day with a different excitement for the new things I will learn because there are lots of unknown things that I want to solve, which is very interesting and I like in this field. 
+As can be easily seen, I have no past study on neuroscience. However, it has been my dream for a long time to explore the brain, understand cognitive processes and contribute something to this field. To prepare for this, I tried to improve myself in subjects related to my field at university. For example, "Object Recognition", "Attention", and "Language" topics in cognitive neuroscience can be considered as computer vision and natural language processing from machines' (AI's) terminological perspective. As a long term goal, I will develop projects using artificial intelligence as a tool with having clear understanding of the neuroscience domain's problems and needs, by learning and combining the biological and psychological approaches. While I think that deep learning and new technologies can play an important role in the discovery of the brain, I rolled up my sleeves to learn traditional methods as well. I wake up every day with a different excitement for the new things I will learn because there are lots of unknown things that I want to solve, which is very interesting and I like in this field. 
 
 *Brain is simply fascinating.*
 <br/><br/><br/>
@@ -153,3 +153,6 @@ For now, my main purpose is to get a familiarity with the deep neuroscience topi
 
 ### Day 58-62
 I completed hearing and vestibular system & gaze in Neurobiology course and started Movement and Motor Control at Medical Neuroscience. I am trying to develop note taking skills, however, it is still quite hard to keep up with.
+
+### Day 63-65
+Reading cognitive neuroscience book provides more insights page by page. The genetic manipulations on animals, invasive and non-invasive methods to stimulate animal and human brain are clearly explained. I am trying to keep up with my program, however, it seems I will first complete everything in neurobiology course before moving forward in medical neuroscience. It is because following lots of courses at the same time is mentally burden for me right now. 
