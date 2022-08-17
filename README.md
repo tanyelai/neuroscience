@@ -2,7 +2,7 @@
 
 I'm keeping this repository for those who are afraid to start neuroscience or something else because it seems dark, comprehensive, and complex, even though it interests them a lot. I'm at the same point, and let's see how far we can go with self-discipline.
 
-**Note that:** Neuroscience is more theoretical than cognitive science, however, these both require experimental studies to go further after reaching some level of knowledge. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience (Edit: Well, with commiting myself to neuroscience I also found a chance to get experience in Tactile Research Laboratory at Boğaziçi University where I also work for now). I personally want to study cognitive neuroscience at my phd and we need to start from somewhere. 
+**Note that:** Computitional neuroscience is quite theoretical field, however, it also requires lots of experimental studies to go further after reaching some level of knowledge. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience (edit: well, with commiting myself to neuroscience I also found a chance to get lab experience in Tactile Research Laboratory at Boğaziçi University where I will do research in my senior year). I personally want to create a value in computitional neuroscience at my phd and we need to start from somewhere.
 
 ### Table of contents
 1) [About my passion](#about-my-passion)
@@ -156,3 +156,6 @@ I completed hearing and vestibular system & gaze in Neurobiology course and star
 
 ### Day 63-65
 Reading cognitive neuroscience book provides more insights page by page. The genetic manipulations on animals, invasive and non-invasive methods to stimulate animal and human brain are clearly explained. I am trying to keep up with my program, however, it seems I will first complete everything in neurobiology course before moving forward in medical neuroscience. It is because following lots of courses at the same time is mentally burden for me right now. 
+
+### Day 66-67
+More readings at library. The things I learn about are quite fascinating and this situation gives me a feeling that "I need to learn more", so I think I'm at the right point.
