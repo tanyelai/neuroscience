@@ -2,7 +2,7 @@
 
 I'm keeping this repository for those who are afraid to start neuroscience or something else because it seems dark, comprehensive, and complex, even though it interests them a lot. I'm at the same point, and let's see how far we can go with self-discipline.
 
-**Note that:** Computitional neuroscience is quite theoretical field, however, it also requires lots of experimental studies to go further after reaching some level of knowledge. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience (edit: well, with commiting myself to neuroscience I also found a chance to get lab experience in Tactile Research Laboratory at Boğaziçi University where I will do research in my senior year). I personally want to create a value in computitional neuroscience at my phd and we need to start from somewhere.
+**Note that:** Computational neuroscience is quite theoretical field, however, it also requires lots of experimental studies to go further after reaching some level of knowledge. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience (edit: well, with commiting myself to neuroscience I also found a chance to get lab experience in Tactile Research Laboratory at Boğaziçi University where I will do research in my senior year). I personally want to create a value in computational neuroscience at my phd and we need to start from somewhere.
 
 ### Table of contents
 1) [About my passion](#about-my-passion)
