@@ -160,7 +160,10 @@ Reading cognitive neuroscience book provides more insights page by page. The gen
 ### Day 66-67
 More readings at library. The things I learn about are quite fascinating and this situation gives me a feeling that "I need to learn more", so I think I'm at the right point.
 
-### Day 68-76
-I helped the design of the experimental setup of our research for spinal cord injuries at Vivarium where is part of the Boğaziçi University Center for Life Sciences and Technologies. We did pilot experiments to solve early mistakes, and handling rats is time consuming.
+### Day 68-77
+I helped the design of the experimental setup of our research for spinal cord injuries at Vivarium where is part of the Boğaziçi University Center for Life Sciences and Technologies. We did pilot experiments to solve early mistakes, and handling rats was time consuming.
 
 I also finished 6th and 7th week of the course Understanding the Brain: The Neurobiology of Everyday Life.
+
+### Day 78
+Resting to not be burnout.
