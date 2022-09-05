@@ -165,5 +165,10 @@ I helped the design of the experimental setup of our research for spinal cord in
 
 I also finished 6th and 7th week of the course Understanding the Brain: The Neurobiology of Everyday Life.
 
-### Day 78-82
+### Day 78-83
 Resting to not be burnout.
+
+### Day 84-85
+I completed the rest of the course Understanding the Brain: The Neurobiology of Everyday Life. I'll continue with the Medical Neuroscience with taking notes. Serious things will happen...
+
+### Day 86
