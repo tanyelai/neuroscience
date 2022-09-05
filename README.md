@@ -169,6 +169,6 @@ I also finished 6th and 7th week of the course Understanding the Brain: The Neur
 Resting to not be burnout.
 
 ### Day 84-85
-I completed the rest of the course Understanding the Brain: The Neurobiology of Everyday Life. I'll continue with the Medical Neuroscience with taking notes. Serious things will happen...
+I completed rest of the course Understanding the Brain: The Neurobiology of Everyday Life. I'll continue with the Medical Neuroscience with taking notes. Serious things will happen...
 
 ### Day 86
