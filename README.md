@@ -171,7 +171,10 @@ Resting to not be burnout.
 ### Day 84-85
 I completed rest of the course Understanding the Brain: The Neurobiology of Everyday Life. I'll continue with the Medical Neuroscience with taking notes. Serious things will happen...
 
-### Day 86-92
+### Day 86-93
 Cleaned everything until 7th week in Medical Neuroscience course, and I started 8th week rather than 7th, because I need insights of motor control and activity for my internship topics at BOUN. 
 
 Cognitive Neuroscience textbook is also quite enjoyable to read. I am about middle of the 4th chapter which explains the hemispheric specialization. The corpus callosum experiments are interesting and amazing. At 1940, some clinical surgeries are made to seizure disorder patients with taking too much risk because of the lack of technological tools and knowledge. To everyone’s relief, the surgery was a great success, and ships are sailed to new harbor with its results.
+
+### Day 94-100
+I did nothing about my coursework because I attended the International Conference on Computer Science and Engineering to present my paper about offensive language detection.
