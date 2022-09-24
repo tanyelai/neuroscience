@@ -44,6 +44,10 @@ Courses to comprehend what is happening.</br>
 4) [Neuroscience time series analyses](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists?view=50&sort=dd&shelf_id=1) (free - youtube) </br>
 5) [Neuroscience time series analyses](https://www.udemy.com/course/solved-challenges-ants/) (paid - more resources and from scratch matlab codes/data) </br><br/><br/>
 
+## Free EEG Datasets
+[EEG DATASETS](https://github.com/toygarr/neuroscience/blob/main/EEG_DATASETS.md)
+</br><br/><br/>
+
 ## Notes
 
 ### Table of note contents
