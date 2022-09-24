@@ -184,4 +184,4 @@ Completed week 8 at Medical Neuroscience coursework. I sent my financial-aid req
 
 I am also peer counselor at computer eng. department at my university, so I started to provide information to 1st year students. I hope it will be impactful in a positive way on their lives.
 
-I cannot take serious notes for neuroscience in current situation because my focus time is limited. I plan that I will recap everything with taking notes when I start my Master Degree on Biomedical Engineering.
+I cannot take serious notes for neuroscience in current situation because my focus time is limited. I plan that I will recap everything with taking notes when I start my Master's Degree on Biomedical Engineering.
