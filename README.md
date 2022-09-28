@@ -28,13 +28,11 @@ In this repository, you will find the resources I have found up-to-date, what I 
 ### Books
 1) Cognitive Neuroscience: The Biology of the Mind {2019} <br/>
 (Edit: -> After some research, I jumped on this book because it is much more up-to-date, easy to read, and recommended.)</br>
-2) Neuroscience For Dummies {2016} <br/>
-(Note: My professor recommended it for better start.)
-3) Principles of Cognitive Neuroscience {2012} <br/>
+2) Principles of Cognitive Neuroscience {2012} <br/>
 (Note: It's also easy to read, it simplifies very complex topics. Good book. I didn't read it all, I skipped over it.)</br>
-4) Neuroscience 6th Edition {2018} <br/>
+3) Neuroscience 6th Edition {2018} <br/>
 (Note: Pretty hard to read, best to go with the main course. Best medicine for its patient.)
-5) Analyzing Neural Time Series Data Theory and Practice {2014} (Mike X Cohen) <br/>
+4) Analyzing Neural Time Series Data Theory and Practice {2014} (Mike X Cohen) <br/>
 (Note: I started this book for learning signal processing from scratch for EEG data. His writing style is really enjoyable.)</br>
 ### Courses
 Courses to comprehend what is happening.</br>
