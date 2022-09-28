@@ -184,6 +184,16 @@ I did nothing about my coursework because I attended the International Conferenc
 ### Day 101-105
 Completed week 8 at Medical Neuroscience coursework. I sent my financial-aid request to AI for Medicine Specialization courses at Coursera (I need to learn medical imaging)... 
 
-I am also peer counselor at computer eng. department at my university, so I started to provide information to 1st year students. I hope it will be impactful in a positive way on their lives.
+I am also peer counselor at computer eng. department at my university, so I started to provide information to 1st year students.
 
 I cannot take serious notes for neuroscience in current situation because my focus time is limited. I plan that I will recap everything with taking notes when I start my Master's Degree on Biomedical Engineering.
+
+### Day 106-109
+4 days, non-stop, just read the papers related with posterior fossa. Finally, I am close to determine the topic for my graduation thesis. I will work on the diagnosis and prognosis of posterior fossa which is a brain tumor in children under supervision of Dr. Bilgin Keserci.
+
+The context of medical neuroscience course is quite deep and "medical", but I think it's really worth it. Even just remembering the keywords or the parts from brain, provides more insight and curiosity.
+
+It has been almost 4 months of diary. Nothing in life goes as expected or unchanged. (Passion in neuroscience still here though)
+The side effects are always affect my study habit, and I cannot focus most of the time. But there's a power in me that allows me to do something worthwhile, or perhaps a possibility to create value.
+
+In this year, by studying more about the neuroanatomy and neuroimaging, I will be in the next stage of my dream that being able to help patients with neurodegenerative diseases.
