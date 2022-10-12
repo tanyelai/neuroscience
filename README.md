@@ -197,3 +197,12 @@ It has been almost 4 months of diary. Nothing in life goes as expected or unchan
 The side effects are always affect my study habit, and I cannot focus most of the time. But there's a power in me that allows me to do something worthwhile, or perhaps a possibility to create value.
 
 In this year, by studying more about the neuroanatomy, neuroimaging and cognitive science, I will be in the next stage of my dream that being able to help patients with neurodegenerative diseases.
+
+### Day 117-124
+In posterior fossa diagnosis task, we got ideas to propose new perspective of analysis by understanding the missing parts of the literature. 
+
+In this period, I was still constantly reading posterior fossa and fibroid papers and implementing codes of the brain data to understanding what we have and what we can do with it. 
+
+I will discuss the details of pf in the paper I'll write, so this diary is not convenient to use in that purpose.
+
+Posterior fossa is a serious disease among children. The most common posterior fossa tumors in children are medulloblastoma, astrocytoma and ependymoma. Atypical rhabdoid teratoid tumors and brain stem gliomas are relatively rare. As the posterior fossa is a limited space, the tumors presenting in this region cause symptoms early on and require prompt treatment to avoid potential morbidity and mortality. Early detection and diagnosis of these tumors and prompt neurosurgical consultation is crucial in the optimum management of pediatric infratentorial brain tumors [cite](https://pubmed.ncbi.nlm.nih.gov/20367206/). That's why we are trying to diagnose accurately with AI to go beyond human ability.
