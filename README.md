@@ -206,3 +206,10 @@ In this period, I was still constantly reading posterior fossa and fibroid paper
 I will discuss the details of pf in the paper I'll write, so this diary is not convenient to use in that purpose.
 
 Posterior fossa is a serious disease among children. The most common posterior fossa tumors in children are medulloblastoma, astrocytoma and ependymoma. Atypical rhabdoid teratoid tumors and brain stem gliomas are relatively rare. As the posterior fossa is a limited space, the tumors presenting in this region cause symptoms early on and require prompt treatment to avoid potential morbidity and mortality. Early detection and diagnosis of these tumors and prompt neurosurgical consultation is crucial in the optimum management of pediatric infratentorial brain tumors [{cite}](https://pubmed.ncbi.nlm.nih.gov/20367206/). That's why we are trying to diagnose accurately with AI to go beyond human ability.
+
+### Day 125-144
+With the start of the school days, I had to put the theoretical neuroscience work behind relatively. In theory there is time to do everything, but in reality there are too many factors to spoil it. 
+
+I cannot find time to actively study neuroscience, but I continue to study brain tumors in children both technically and clinically at the research level. I read lots of medical research papers besides my 6 quite busy computer science lectures and projects. Medical Neuroscience courses must be finished in 2 months so I'll figure out how... 
+
+We are still on the right track, so I cannot say anything goes wrong. In this peroid of time, I had the opportunity to further understand how much there is a need for people who can combine clinical/medical and technical knowledge. These two are in need of each other, but there is a serious gap between them. You can see this constantly, both in published articles and in other works. 
