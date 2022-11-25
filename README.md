@@ -213,3 +213,11 @@ With the start of the school days, I had to put the theoretical neuroscience wor
 I cannot find time to actively study neuroscience, but I continue to study brain tumors in children both technically and clinically at the research level. I read lots of medical research papers besides my 6 quite busy computer science lectures and projects. Medical Neuroscience courses must be finished in 2 months so I'll figure out how... 
 
 We are still on the right track, so I cannot say anything goes wrong. In this peroid of time, I had the opportunity to further understand how much there is a need for people who can combine clinical/medical and technical knowledge. These two are in need of each other, but there is a serious gap between them. You can see this constantly, both in published articles and in other works. 
+
+
+### Day 145-171
+I haven't been here for a long time... 
+
+Recently, I am working on early detection of Alzheimer's disease from MR images, besides trying to artificially augment the brain images via Variational Autoencoders and other methods. It's pretty irritating as I am dealing with dimensions for hours.
+
+Also, still continue to write a paper related with posterior fossa tumors.
