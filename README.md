@@ -44,6 +44,10 @@ Courses to comprehend what is happening.</br>
 
 ## Free EEG Datasets
 [EEG DATASETS](https://github.com/toygarr/neuroscience/blob/main/EEG_DATASETS.md)
+
+## Open Source Brain Datasets
+ADNI - [https://adni.loni.usc.edu](https://adni.loni.usc.edu) -> Awesome initiative. MRI/PET, clinical, genetic biospecimen data for Alzheimer's and some other diseases.
+OASIS - [http://www.oasis-brains.org](http://www.oasis-brains.org) -> 5 different imaging dataset
 </br><br/><br/>
 
 ## Notes
@@ -221,3 +225,14 @@ I haven't been here for a long time...
 Recently, I am working on early detection of Alzheimer's disease from MR images, besides trying to artificially augment the brain images via Variational Autoencoders and other methods. It's pretty irritating as I am dealing with dimensions for hours.
 
 Also, still continue to write a paper related with posterior fossa tumors.
+
+### Day 171-187
+I have come to the end of the Medical Neuroscience course, which has the most comprehensive content I have ever taken. It took me over 5 months to complete.
+
+Some highlights from the course:
+- You can expect standard college level neuroscience course. Dr. White follows the companion book that he is also one of the writers (Neuroscience 6th Edition). Most of the online courses are superficial and do not provide in-depth knowledge. You will be surprised by the range of this course.
+- There are lots of guide and tools that you can utilize with your study flow. He underlies the specific book chapters that explain the issues in more detailed before each class.
+- You will learn quite interesting facts about the life itself such as how we can deceive our brain to perceive the world in a different way.
+- It is quite difficult to complete the exams. Final clinical exam cases were quite challenging to find out which problems in the brain might arise from the problems seen in the patient.
+
+I also got access to ADNI (Alzheimer's Disease Neuroimaging Initiative) data. Currently, we are creating task specific data set from large amount of shared data. I will be doing my graduation thesis from here it seems. We have 3D MRI and PET data with per 6 months for 3 years visits for many patients. You can check details of the ADNI dataset from [Open Source Brain Datasets](#open-source-brain-datasets).
