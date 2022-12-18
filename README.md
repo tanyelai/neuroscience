@@ -190,7 +190,7 @@ Completed week 8 at Medical Neuroscience coursework. I sent my financial-aid req
 
 I am also peer counselor at computer eng. department at my university, so I started to provide information to 1st year students.
 
-I cannot take serious notes for neuroscience in current situation because my focus time is limited. I plan that I will recap everything with taking notes when I start my Master's Degree on Biomedical Engineering.
+I cannot take serious notes for neuroscience in current situation because my focus time is limited. I plan that I will recap everything with taking notes when I start my PhD.
 
 ### Day 106-116
 11 days, non-stop, just read the papers related with MR imaging studies of posterior fossa and fibroids. Finally, I determined the topic for my graduation thesis. I will work on the diagnosis and prognosis of posterior fossa which is a brain tumor in children under supervision of Dr. Bilgin Keserci.
