@@ -2,7 +2,7 @@
 
 I'm keeping this repository for those who are afraid to start neuroscience or something else because it seems dark, comprehensive, and complex, even though it interests them a lot. I'm at the same point, and let's see how far we can go with self-discipline.
 
-**Note that:** Computational neuroscience is a theoretical field, with need of lots of experimental studies to go further after reaching some level of knowledge. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience. (Edit: with commiting myself to neuroscience I also found a chance to get lab experience in Tactile Research Laboratory at Boğaziçi University, and also Biomedical Engineering lab at my own university) I personally desire to create a significant value in the field of computational cognitive neuroscience, and as other things it requires quite much work... Sometimes it feels scary, but the knowledge you gain in the path somehow keeps you from being unmotivated.
+**Note that:** Computational neuroscience is a theoretical field, with need of lots of experimental studies to go further after reaching some level of knowledge. Therefore, in this repository we will be covering most of theoretical background of these studies with lack of experience. (Edit: with commiting myself to neuroscience I also found a chance to get lab experience in two different biomedical department) I personally desire to create a significant value in the field of computational cognitive neuroscience, and as other things it requires quite much work... Sometimes it might feel scary, but the knowledge we gain in the path somehow keeps us from being unmotivated.
 
 ### Table of contents
 1) [About my passion](#about-my-passion)
@@ -236,3 +236,9 @@ Some highlights from the course:
 - It is quite difficult to complete the exams. Final clinical exam cases were quite challenging to find out which problems in the brain might arise from the problems seen in the patient.
 
 I also got access to ADNI (Alzheimer's Disease Neuroimaging Initiative) data. Currently, we are creating task specific data set from large amount of shared data. I will be doing my graduation thesis from here it seems. We have 3D MRI and PET data with per 6 months for 3 years visits for many patients. You can check details of the ADNI dataset from [Open Source Brain Datasets](#open-source-brain-datasets).
+
+
+### Day 188-195
+While working with brain images, there are several must preprocessing steps such as skull stripping and normalization. However, I couldn't use preprocessing libraries in the way I intended, so still have some issues here. 
+
+Also each of my compulsory computer science lessons have a quite comprehensive projects to do, so neuroscience will be suspended until I have to work for my [Neural Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=10912&aid=151) exams.
