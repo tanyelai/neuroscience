@@ -249,7 +249,7 @@ Also each of my compulsory computer science lessons have a quite comprehensive p
 ### Day 196-231
 In this long interval, I've done 4 different term projects, and neural engineering homework. Also I destroyed my final exams :)
 
-My previous neuroscience studies quite helped in the [Neural Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=10912&aid=151) course, which is normally a biomedical engineering course in YTU. I am one of the highest in overall results, and it was quite satisfactory and joyful to see that I am able to explain and comfortably use what I have learned while coming this far. <br/> *Average and Grade* -> <img height="15" width="45" alt="image" src="https://user-images.githubusercontent.com/44132720/214042935-7d63a941-6026-4382-b471-5be50290f307.png">
+My previous neuroscience studies quite helped in the [Neural Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=10912&aid=151) course, which is normally a biomedical engineering course in YTU. I am one of the highest in overall results, and it was quite satisfactory and joyful to see that I am able to explain and comfortably use what I have learned while coming this far. <br/> *Average and Grade -> 91/100, AA(A+)*
 
 As a new development, I have solved the problem with [FreeSurfer](https://surfer.nmr.mgh.harvard.edu) that will help me while preprocessing the 3D MRI data in my graduation project which is about Alzheimer's Disease.
 
