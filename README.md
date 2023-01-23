@@ -245,3 +245,12 @@ I also got access to ADNI (Alzheimer's Disease Neuroimaging Initiative) data. Cu
 While working with brain images, there are several must preprocessing steps such as skull stripping and normalization. However, I couldn't use preprocessing libraries in the way I intended, so still have some issues here. 
 
 Also each of my compulsory computer science lessons have a quite comprehensive projects to do, so neuroscience will be suspended until I have to work for my [Neural Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=10912&aid=151) exams.
+
+### Day 196-231
+In this long interval, I've done 4 different term projects, and neural engineering homework. Also I destroyed my final exams :)
+
+My previous neuroscience studies quite helped in the [Neural Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=10912&aid=151) course, which is normally a biomedical engineering course in YTU. I am one of the highest in overall results, and it was quite satisfactory and joyful to see that I am able to explain and comfortably use what I have learned while coming this far. Average and Grade -> <img width="80" alt="image" src="https://user-images.githubusercontent.com/44132720/214042935-7d63a941-6026-4382-b471-5be50290f307.png">
+
+As a new development, I have solved the problem with [FreeSurfer](https://surfer.nmr.mgh.harvard.edu) that will help me while preprocessing the 3D MRI data in my graduation project which is about Alzheimer's Disease.
+
+Currently, my external focus is studying math and statistical learning to understand theory of signals, images and machine learning to be able to create reasonable computational models in my PhD. From this day forth, i will focus on more math, psychology and cognitive task modeling.
