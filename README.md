@@ -49,8 +49,8 @@ Courses to comprehend what is happening.</br>
 [EEG DATASETS](https://github.com/toygarr/neuroscience/blob/main/EEG_DATASETS.md)
 
 ## Open Source Brain Datasets
-ADNI - [https://adni.loni.usc.edu](https://adni.loni.usc.edu) -> Awesome initiative. MRI/PET, clinical, genetic biospecimen data for Alzheimer's and some other diseases.
-OASIS - [http://www.oasis-brains.org](http://www.oasis-brains.org) -> 5 different imaging dataset
+**ADNI** - [https://adni.loni.usc.edu](https://adni.loni.usc.edu) -> Awesome initiative. MRI/PET, clinical, genetic biospecimen data for Alzheimer's and some other diseases.<br/>
+**OASIS** - [http://www.oasis-brains.org](http://www.oasis-brains.org) -> 5 different imaging dataset
 </br><br/><br/>
 
 ## Notes
@@ -58,7 +58,8 @@ OASIS - [http://www.oasis-brains.org](http://www.oasis-brains.org) -> 5 differen
 ### Table of note contents
 1) [Philosophy of Cognitive Sciences](https://github.com/Toygarr/cognitive-neuroscience/blob/main/NOTES/philosophy_of_cognitive_sciences.md)
 2) [Cognitive Neuroscience The Biology of the Mind](https://github.com/Toygarr/cognitive-neuroscience/blob/main/NOTES/cognitive_neuroscience_book.md)
-3) Analyzing Neural Time Series Data Theory and Practice -- will be added later
+3) Analyzing Neural Time Series Data Theory and Practice 
+I couldn't handle every part to take notes because of study circumstances. However, in future, if I'll take, I'll definitely publish.
 
 </br><br/><br/>
 
