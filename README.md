@@ -58,7 +58,7 @@ Courses to comprehend what is happening.</br>
 ### Table of note contents
 1) [Philosophy of Cognitive Sciences](https://github.com/Toygarr/cognitive-neuroscience/blob/main/NOTES/philosophy_of_cognitive_sciences.md)
 2) [Cognitive Neuroscience The Biology of the Mind](https://github.com/Toygarr/cognitive-neuroscience/blob/main/NOTES/cognitive_neuroscience_book.md)
-3) Analyzing Neural Time Series Data Theory and Practice 
+3) Analyzing Neural Time Series Data Theory and Practice <br/>
 I couldn't handle every part to take notes because of study circumstances. However, in future, if I'll take, I'll definitely publish.
 
 </br><br/><br/>
