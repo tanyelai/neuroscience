@@ -255,3 +255,10 @@ My previous neuroscience studies quite helped in the [Neural Engineering](http:/
 As a new development, I have solved the problem with [FreeSurfer](https://surfer.nmr.mgh.harvard.edu) that will help me while preprocessing the 3D MRI data in my graduation project which is about Alzheimer's Disease.
 
 Currently, my external focus is studying math and statistical learning to understand theory of signals, images and machine learning to be able to create reasonable computational models in my PhD. From this day forth, i will focus on more math, psychology and cognitive task modeling.
+
+### Day 232-237
+I've been trying to build my graduation project with solid foundations for a while. Deep learning studies on Alzheimer's disease have increased considerably. However, in the current situation, the results of most studies do not mean much, since most of them are doing these studies with weak understanding in deep learning. 
+
+Pre-processing of brain images takes time, especially skull-stripping. I enjoy what I'm doing though. The fact that the code I wrote is quite organized compared to the past gives a strange pleasure. I'll publish everything with my graduation paper.
+
+I'm also trying to wrap up the paper on the posterior fossa as well, where we discuss a few questions that seem quite simple but are worth examining. We're close to light at the end of the bridge.
