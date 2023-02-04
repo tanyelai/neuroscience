@@ -262,3 +262,8 @@ I've been trying to build my graduation project with solid foundations for a whi
 Pre-processing of brain images takes time, especially skull-stripping. I enjoy what I'm doing though. The fact that the code I wrote is quite organized compared to the past gives a strange pleasure. I'll publish everything with my graduation paper.
 
 I'm also trying to wrap up the paper on the posterior fossa as well, where we discuss a few questions that seem quite simple but are worth examining. We're close to light at the end of the bridge.
+
+### Day 238-245
+I am trying to manage and complete the writing of 3 journal papers in an artistic way. We're at (almost) the end of it all, but many new things noticed while writing the context make it difficult to conclude papers. Even though it is sometimes quite confusing and tiring that the subjects I work on and write papers on are different from each other, the feeling they bring to me is invaluable. At the end of the day, I think the pleasure I get will make us resistant to longer journeys.
+
+Also, stuck with the Alzheimer's Disease training phase. I've coded and completed entire pre-processes, however, during the tutorial I'm getting much lower results than I expected - also quite lower from the literature. I feel the desperation deeply, but at least I am well aware that this is how it works. So keep working.
