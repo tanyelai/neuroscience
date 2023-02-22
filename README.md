@@ -267,3 +267,8 @@ I'm also trying to wrap up the paper on the posterior fossa as well, where we di
 I am trying to manage and complete the writing of 3 journal papers in an artistic way. We're at (almost) the end of it all, but many new things noticed while writing the context make it difficult to conclude papers. Even though it is sometimes quite confusing and tiring that the subjects I work on and write papers on are different from each other, the feeling they bring to me is invaluable. At the end of the day, I think the pleasure I get will make us resistant to longer journeys.
 
 Also, stuck with the Alzheimer's Disease training phase. I've coded and completed entire pre-processes, however, during the training phase I'm getting much lower results than I expected - also quite lower from the literature. I feel the desperation deeply, but at least I am well aware that this is how it works. So keep working.
+
+### Day 246-264
+A lot of things happened in these days, including the devastating earthquake. Therefore, the life could not proceed as expected.
+
+I spent my almost entire time into the paper that we wrote for pediatric brain tumors. We went into a lot of depth, and frankly, it is a work that makes me feel very comfortable with. The amount of knowledge and the perspective we propose, is quite close to the top level papers, and we do indeed plan to submit the article to Q1 journal, which is really hard to be accepted as an undergraduate student.
