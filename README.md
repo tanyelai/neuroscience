@@ -272,3 +272,10 @@ Also, stuck with the Alzheimer's Disease training phase. I've coded and complete
 A lot of things happened in these days, including the devastating earthquake. Therefore, the life could not proceed as expected.
 
 I spent my almost entire time into the paper that we wrote for pediatric brain tumors. We went into a lot of depth, and frankly, it is a work that makes me feel very comfortable with. The amount of knowledge and the perspective we propose, is quite close to the top level papers, and we do indeed plan to submit the article to Q1 journal, which is really hard to be accepted as an undergraduate student.
+
+### Day 265-288
+I finalized my part in pediatric brain tumors study. It was unexpectedly long, concentrated and time-consuming. I learned lots of thing in the pathway. 
+
+For example: QUALITY always takes time. You need to be very meticulous and work on what you have in detail. You will need to read your written chapters over and over again and rewrite most of it from scratch. More importantly, you should also make sure that the information you provide is reliable and measurable.
+
+Recently, I work on counterfactual explanations for machine learning, which I deeply read the most important papers. I came up with an amazing idea in order to use these fact base explanations with pediatric brain tumors. It actually can be used for every single classification task, where we may need local explanations for machine decisions.
