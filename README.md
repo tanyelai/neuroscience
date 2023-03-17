@@ -276,6 +276,6 @@ I spent my almost entire time into the paper that we wrote for pediatric brain t
 ### Day 265-288
 I finalized my part in pediatric brain tumors study. It was unexpectedly long, concentrated and time-consuming, but I learned lots of thing on the pathway. 
 
-For example: QUALITY always takes time. You need to be very meticulous and work on what you have in detail. You will need to read your written chapters over and over again and rewrite most of it from scratch. More importantly, you should also make sure that the information you provide is reliable and measurable.
+For example: QUALITY always takes time. You need to be very meticulous and work on what you have in detail. You will need to read your chapters over and over again and rewrite most of it from scratch. More importantly, you should also make sure that the information you provide is reliable and measurable.
 
 Recently, I work on counterfactual explanations for machine learning, which I deeply read the most important papers. I came up with an amazing idea in order to use these fact base explanations with pediatric brain tumors. It actually can be used for every single classification task, where we may need local explanations for machine decisions.
