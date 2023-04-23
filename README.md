@@ -289,7 +289,7 @@ During this period, I studied a lot about medical stuff (especially neuroscience
 
 Unfortunately, many of my plans didn't work out, as always. I couldn't go for a neuroscience internship in the Netherlands (which got cancelled for ridiculous reasons). Plus, my current situation doesn't allow me to pursue a master's or PhD in neuroscience abroad, even though I'm well-qualified as an undergraduate to study almost anywhere for further education and research.
 
-So, I've decided to continue my medical work on heart diseases under the supervision of [İlkay Öksüz](https://sites.google.com/view/oksuzilkay), while pursuing a master's degree in Computer Science at Istanbul Technical University.
+So, I've decided to continue my medical work on heart diseases under the supervision of Assoc. Prof. [İlkay Öksüz](https://sites.google.com/view/oksuzilkay), while pursuing a master's degree in Computer Science at Istanbul Technical University.
 
 Sometimes, life doesn't provide the ideal circumstances for us to achieve what we want. Our ideas about things are constantly changing, and I believe we should take chances if we think they might be right because *how can we know what's right anyways*? Our brain simply deceives us and makes us live the way it wants. *Everything is connected*.
 
