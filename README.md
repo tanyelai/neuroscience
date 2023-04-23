@@ -14,6 +14,7 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 3) [Resources](#resources)
 4) [Notes](#notes)
 5) [Diary](#diary)
+6) [End Notes For My Journey](#day-somewhere-300s)
 
 
 <br/>
@@ -279,3 +280,17 @@ I finalized my part in pediatric brain tumors study. It was unexpectedly long, c
 For example: QUALITY always takes time. You need to be very meticulous and work on what you have in detail. You will need to read your chapters over and over again and rewrite most of it from scratch. More importantly, you should also make sure that the information you provide is reliable and measurable.
 
 Recently, I work on counterfactual explanations for machine learning, which I deeply read the most important papers. I came up with an amazing idea in order to use these fact base explanations with pediatric brain tumors. It actually can be used for every single classification task, where we may need local explanations for machine decisions. So, it seems like we will be delving into this topic a bit more and doing further work on explainability in medical research.
+
+
+## Day Somewhere 300s
+This is my last entry for now, on this journey. 
+
+During this period, I studied a lot about medical stuff (especially neuroscience), in addition to my technical responsibilities at the university and labs. I even managed to submit 2 medical papers to a Q1 journal and improved my knowledge of "how to research".
+
+Unfortunately, many of my plans didn't work out, as always. I couldn't go for a neuroscience internship in the Netherlands (which got cancelled for ridiculous reasons). Plus, my current situation doesn't allow me to pursue a master's or PhD in neuroscience abroad, even though I'm well-qualified as an undergraduate to study almost anywhere for further education and research.
+
+So, I've decided to continue my medical work on heart diseases under the supervision of [İlkay Öksüz](https://sites.google.com/view/oksuzilkay), while pursuing a master's degree in Computer Science at Istanbul Technical University.
+
+Sometimes, life doesn't provide the ideal circumstances for us to achieve what we want. Our ideas about things are constantly changing, and I believe we should take chances if we think they might be right because *how can we know what's right anyways*? Our brain simply deceives us and makes us live the way it wants. *Everything is connected*.
+
+In conclusion, life is also a living organism and our decisions are significant in shaping our world. The simplest and biggest questions may be 'Why?' and 'How?' and learning constantly is the key to figure out.
