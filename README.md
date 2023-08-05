@@ -20,7 +20,11 @@ I'm keeping this repository for those who are afraid to start neuroscience or so
 <br/>
 
 ## About my passion
-As can be easily seen, I have no past study on neuroscience before this repository. However, it has been my dream for a long time to explore the brain, understand cognitive processes and try to solve some of the questions I have in this field. To prepare for this, I tried to improve myself in subjects related to my field at university. For example, "Object Recognition", "Attention", and "Language" topics in cognitive neuroscience can be considered as computer vision and natural language processing from terminological perspective of machines (AI). As a long term goal, I will be part of the dedicated brain research projects which are utilizing artificial intelligence as a tool, with having clear understanding of the neuroscience domain's problems and needs, by learning and combining the biological and psychological approaches. While I think that deep learning and new technologies will be playing a crucial role in the discovery of the brain, I rolled up my sleeves to learn traditional methods as well. I wake up every day with a different excitement for the new things I will learn because there are lots of unknown things that I want to solve, which is very interesting and I like in this field. 
+As can easily be seen, before starting this text (in one of the hot summer months of 2022), I had no previous experience in neuroscience. However, exploring the brain, understanding cognitive processes, and attempting to solve some of the questions that intrigued me in this field had been on my mind for a long time. To prepare for this, I tried to develop myself in areas that could be considered related to my field of study during my time at university.
+
+As a long-term goal, I aimed to be part of brain research projects that use artificial intelligence as a tool, by combining it with computer science and gaining a clear understanding of the problems in neuroscience. While I believed that deep learning and new technologies would play a significant role in the discovery of the brain, I also rolled up my sleeves to learn traditional methods. I woke up every day with a different excitement to learn new things, as there were many unknowns I wanted to unravel, and I enjoyed this challenge.
+
+At the end of the journey, I am now continuing my master's degree in Biomedical Engineering, on cardiovascular diseases (we cannot escape some realities; the reasons are a subject for another place and time, summer 2023). However, on this page, you can find what I was interested in during nearly one year of neuroscience studies.
 
 <br/><br/><br/>
 
@@ -66,6 +70,7 @@ I couldn't handle every part to take notes because of study circumstances. Howev
 
 
 ## Diary
+If you take the time to read it, you will notice that, although I enjoyed the process, it has been quite a rollercoaster ride for me. Sometimes, there are childishly excited peaks, sometimes pieces of information written as if I were an expert doctor, and other times, you may come across empty and inexplicable things that no one will ever understand why they are there.
 
 ### Day 1-2
 I completed the course "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences". It's relatively short and superficial course. They cover the main concepts of brain evolutionary theory and consciousness. After explaining the fundamentals of ideas, they mostly provide external resources for further information. 
@@ -202,11 +207,13 @@ I cannot take serious notes for neuroscience in current situation because my foc
 
 The context of medical neuroscience course is quite deep and "medical", but I think it's really worth it. Even just remembering the keywords or the parts from brain, provides more insight and curiosity.
 
+----
 It has been almost 4 months of diary. Nothing in life goes as expected or unchanged. (Passion in neuroscience still here though)
 The side effects are always affect my study habit, and I cannot focus most of the time. But there's a power in me that allows me to do something worthwhile, or perhaps a possibility to create value.
 
 In this year, by studying more about the neuroanatomy, neuroimaging and cognitive science, I will be in the next stage of my dream that being able to help patients with neurodegenerative diseases.
 
+----
 ### Day 117-124
 In posterior fossa diagnosis task, we got ideas to propose new perspective of analysis by understanding the missing parts of the literature. 
 
@@ -289,7 +296,7 @@ During this period, I studied a lot about medical stuff (especially neuroscience
 
 Unfortunately, many of my plans didn't work out, as always. I couldn't go for a neuroscience internship in the Netherlands (which got cancelled for ridiculous reasons). Plus, my current situation doesn't allow me to pursue a master's or PhD in neuroscience abroad, even though I'm well-qualified as an undergraduate to study almost anywhere for further education and research.
 
-So, I've decided to continue my medical work on heart diseases under the supervision of Assoc. Prof. [İlkay Öksüz](https://sites.google.com/view/oksuzilkay), while pursuing a master's degree in Computer Science at Istanbul Technical University.
+So, I've decided to continue my medical work on heart diseases under the supervision of Assoc. Prof. [İlkay Öksüz](https://sites.google.com/view/oksuzilkay), while pursuing a master's degree in Biomedical Engineering at Istanbul Technical University. 
 
 Sometimes, life doesn't provide the ideal circumstances for us to achieve what we want. Our ideas about things are constantly changing, and I believe we should take chances if we think they might be right because *how can we know what's right anyways*? Our brain simply deceives us and makes us live the way it wants. *Everything is connected*.
 
